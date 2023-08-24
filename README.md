@@ -3,7 +3,7 @@
 
 ---
 
-## packages
+## Packages
 ### Supported Architectures
 #### [amd64](./bin/amd64)
 For 64bit AMD64-compatible Systems
