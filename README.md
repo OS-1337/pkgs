@@ -32,11 +32,11 @@ Whilst this is a young project, there is a lot of space to form stuff.
 
 If your package is something useful or something that adds value to the vision of a lightweight and flexible, embedded-capable CLI & TUI Linux Desktop, then it'll likely be added in.
 - Feel free to open up a pull request / issue anytime.
+#### We track all the wishes in the [wishlist in this project, so please see if your wish is already on it](docs/WISHLIST.tsv). 
 ##
 
 ### How are packages build?
 We are working on a detailed [build guide](docs/BUILDING.md) as part of the [Documentation](docs) as we develop and finalize the specs.
-###
 #### TL;DR: To increase portability all packages are statically linked with their dependencies!
 OS/1337 uses [musl](https://en.wikipedia.org/wiki/Musl) and in specific uses [the same musl-cross toolchain](https://landley.net/toybox/downloads/binaries/toolchains/latest/) as [being used to cross compile toybox static binaries](http://landley.net/toybox/faq.html#cross) since [toybox](https://landley.net/toybox/) is being used as it's [Userspace](https://en.wikipedia.org/wiki/User_space_and_kernel_space).
 ##
@@ -51,7 +51,6 @@ We do believe in the freedom of authors to choose their license as they see fit,
     - Also known as: [Commercial](https://en.wikipedia.org/wiki/Commercial_software) and/or [Closed-Source](https://en.wikipedia.org/wiki/Proprietary_software) Software.
   - Licenses that completely disregard the legal facts and laws in regards to software licensing and patents, like:
     - [AGPL (v3)](https://en.wikipedia.org/wiki/GNU_Affero_General_Public_License)
-    - [GPLv3](https://en.wikipedia.org/wiki/GNU_General_Public_License#Version_3)
   - "Anti-Free Licenses" that basically act as a leverage to prevent competitors from offering a better service or product and thus are cleary violating the [OSI's Open Source Definition](https://en.wikipedia.org/wiki/The_Open_Source_Definition).
     - Espechally [SSPL](https://en.wikipedia.org/wiki/Server_Side_Public_License) and other "Source Available" - Licenses which don't allow much beyond "compile it yourself for your system" and/or "[non-commercial] self-hosting".
 ####
