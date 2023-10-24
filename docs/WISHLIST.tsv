@@ -14,7 +14,7 @@ neomutt	GPLv2	https://github.com/neomutt/neomutt.git	https://github.com/neomutt/
 neovim	Apache 2.0	https://github.com/neovim/neovim.git	https://github.com/neovim/neovim/releases	-	neovim is a versatile and extremely powerful editor for professional users, it is based upon vim which is based upon vi.
 pass	GPLv2+	https://git.zx2c4.com/password-store/	https://www.passwordstore.org/	-	pass is a password and credentials manager that utilizes GnuPG-encrypted files to store the credentials and can be used with git and rsync to version and sync them.
 profanity-im	GPLv3	https://github.com/profanity-im/profanity.git	https://github.com/profanity-im/profanity/releases	-	A TUI based XMPP client.
-tmux	ISC	https://github.com/tmux/tmux.git	https://github.com/tmux/tmux/releases	-	tmux is a "terminal multiplexer" that allows to attach and detach sessions.
+tmux	ISC	https://github.com/tmux/tmux.git	https://github.com/tmux/tmux/releases	-	tmux is a terminal multiplexer that allows to attach and detach sessions.
 tor	BSD	https://gitweb.torproject.org/tor.git	https://www.torproject.org/download/tor/	-	tor is an anonymization solution using onion routing.
 xmrig	GPLv3	https://github.com/xmrig/xmrig.git	https://github.com/xmrig/xmrig/releases	-	Monero Miner
 zulip-term	Apache 2.0	https://github.com/zulip/zulip-terminal.git	https://github.com/zulip/zulip-terminal/releases	-	A TUI-based Client for Zulip Chat. Requires Python.
