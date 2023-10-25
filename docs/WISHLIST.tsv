@@ -1,6 +1,6 @@
 NAME	LICENSE	GIT	RELEASES	ISSUE #	COMMENTS
 aerc	???	https://git.sr.ht/~rjarry/aerc	https://git.sr.ht/~rjarry/aerc	-	aerc is a minimalist CLI eMail client
-aria2	-ultiple [GPLv2 and others]	https://github.com/aria2/aria2.git	https://github.com/aria2/aria2/releases	-	A multi-protocol Downloader supporting BitTorrent and other protocols.
+aria2	multiple [GPLv2 and others]	https://github.com/aria2/aria2.git	https://github.com/aria2/aria2/releases	-	A multi-protocol Downloader supporting BitTorrent and other protocols.
 btop	Apache 2.0	https://github.com/aristocratos/btop.git	https://github.com/aristocratos/btop/releases	-	btop is a resource monitor that unites multiple tools like top and htop in one. It requires at least an 80x24 console to run and display anything.
 curl	BSD	https://github.com/curl/curl.git	https://github.com/curl/curl/releases	-	curl is a flexible uploader and downloader for files.
 dropbear	mixed [BSD/MIT]	https://github.com/mkj/dropbear.git	https://matt.ucc.asn.au/dropbear/releases/	-	SSH Server & Client
@@ -12,6 +12,7 @@ mc	GPLv3	https://github.com/MidnightCommander/mc.git	https://github.com/Midnight
 ne	GPLv3	https://github.com/vigna/ne.git	https://github.com/vigna/ne/tags	-	ne, the nice editor - a simple text editor
 neomutt	GPLv2	https://github.com/neomutt/neomutt.git	https://github.com/neomutt/neomutt/releases	-	neomutt is a fork of mutt, a classic yet powerful TUI-based eMail client.
 neovim	Apache 2.0	https://github.com/neovim/neovim.git	https://github.com/neovim/neovim/releases	-	neovim is a versatile and extremely powerful editor for professional users, it is based upon vim which is based upon vi.
+nyx	GPLv3	https://git.torproject.org/nyx.git	https://nyx.torproject.org/#download	-	nyx is a bandwith graph & configuration tool for tor. It requires Python 2.7+ and Stem 1.5.4+.
 pass	GPLv2+	https://git.zx2c4.com/password-store/	https://www.passwordstore.org/	-	pass is a password and credentials manager that utilizes GnuPG-encrypted files to store the credentials and can be used with git and rsync to version and sync them.
 profanity-im	GPLv3	https://github.com/profanity-im/profanity.git	https://github.com/profanity-im/profanity/releases	-	A TUI based XMPP client.
 tmux	ISC	https://github.com/tmux/tmux.git	https://github.com/tmux/tmux/releases	-	tmux is a terminal multiplexer that allows to attach and detach sessions.
