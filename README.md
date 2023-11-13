@@ -33,14 +33,14 @@ Whilst this is a young project, there is a lot of space to form stuff.
 If your package is something useful or something that adds value to the vision of a lightweight and flexible, embedded-capable CLI & TUI Linux Desktop, then it'll likely be added in.
 - Feel free to open up a pull request / issue anytime.
 #### We track all the wishes in the [wishlist in this project, so please see if your wish is already on it](docs/WISHLIST.tsv). 
-##
 
+###
 ### How are packages build?
 We are working on a detailed [build guide](docs/BUILDING.md) as part of the [Documentation](docs) as we develop and finalize the specs.
 #### TL;DR: To increase portability all packages are statically linked with their dependencies!
 OS/1337 uses [musl](https://en.wikipedia.org/wiki/Musl) and in specific uses [the same musl-cross toolchain](https://landley.net/toybox/downloads/binaries/toolchains/latest/) as [being used to cross compile toybox static binaries](http://landley.net/toybox/faq.html#cross) since [toybox](https://landley.net/toybox/) is being used as it's [Userspace](https://en.wikipedia.org/wiki/User_space_and_kernel_space).
-##
 
+###
 ### Licenses?
 #### TL;DR: Don't be a dick!
 ##### As a reference repository for [OS/1337](https://github.com/OS-1337/OS1337) we want to focus on [FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)-licensed software.
@@ -66,3 +66,37 @@ Granted, don't expect us to do so...
 ### Other Repos?
 #### Please refer to [spm](https://github.com/OS-1337/spm) as the [Package Manager](https://en.wikipedia.org/wiki/Package_manager), since this is the main repository for OS/1337.
 OFC nothing prevents one from building one's own repository.
+
+---
+## FAQs
+
+###
+### I want to submit an application to this repo!
+#### That's nice!
+Please [open up a new issue](http://github.com/OS-1337/pkgs/issues/new) or a [Pull request](https://github.com/OS-1337/pkgs/pulls) for the package as per [WISHLIST](docs/WISHLIST.tsv).
+
+###
+### My submission got rejected!
+#### Thats sad to hear, but please don't despair!
+Unless it's a duplicate submission you'll likely get a detailed response why your request was denied.
+##### The following reasons may be the most likely why a submission got rejected.
+####
+- Non-Free Software
+  - Just because something has *"Source Available"* doesn't mean it's *"Open Source"*!
+    - A good example is [Tarsnap](https://www.tarsnap.com) which only has [published Sourcecode](https://www.tarsnap.com/open-source.html).
+  - Single-Vendor / Single-Provider Lock-Ins.
+    - Again: Tarsnap would fit that since it's only useable with the Tarsnap Service and doesn't allow self-hosting or even switching providers at all.
+####
+- Duplicate Submission
+  - Please [search the issues before submitting!](https://github.com/OS-1337/pkgs/issues)
+    - Retries are only permitted if the issues for denying it were alleviated.
+      - Please provide source material for easy checking!
+
+###
+### I want an application on the [Wishlist](docs/WISHLIST.tsv) to be available now!
+#### Feel free to contribute!
+##### Please read the [build guide on how to compile an application for OS/1337](docs/BUILDING.md).
+If you have done that, you may work towards building said packages and creating a bash script to automate this in a reproducible manner.
+- We recommend to default with a matching musl-cross library even when targeting your native hardware & architecture!
+
+Once you get reproduceable results and working binaries and configs, please feel free to document the exact steps and open up an issue detailing it.
