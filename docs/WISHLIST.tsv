@@ -7,6 +7,7 @@ dropbear	mixed [BSD/MIT]	https://github.com/mkj/dropbear.git	https://matt.ucc.as
 enc	MIT	https://github.com/life4/enc.git	https://github.com/life4/enc/releases	-	A modern and easy to use replacement for GnuPG & OpenPGP.
 fish	multiple [GPLv2 and others]	https://github.com/fish-shell/fish-shell.git	https://github.com/fish-shell/fish-shell/releases	-	The Friendly Interactive Shell
 irssi	GPLv2	https://github.com/irssi/irssi.git	https://github.com/irssi/irssi/releases	-	A TUI-based IRC Client.
+kilo	BSD	https://github.com/antirez/kilo	-	-	A minimalist text editor without any dependencies.
 linux	GPLv2	https://git.kernel.org/	https://kernel.org/	-	The Linux Kernel
 lynx	???	???	https://lynx.invisible-island.net/current/index.html	-	lynx is a CLI-based webbrowser
 mc	GPLv3	https://github.com/MidnightCommander/mc.git	https://github.com/MidnightCommander/mc/tags	-	midnight commander is a TUI-based file manager inspired by Norton Commander.
@@ -17,7 +18,7 @@ neovim	Apache 2.0	https://github.com/neovim/neovim.git	https://github.com/neovim
 nyx	GPLv3	https://git.torproject.org/nyx.git	https://nyx.torproject.org/#download	-	nyx is a bandwith graph & configuration tool for tor. It requires Python 2.7+ and Stem 1.5.4+.
 pass	GPLv2+	https://git.zx2c4.com/password-store/	https://www.passwordstore.org/	-	pass is a password and credentials manager that utilizes GnuPG-encrypted files to store the credentials and can be used with git and rsync to version and sync them.
 profanity-im	GPLv3	https://github.com/profanity-im/profanity.git	https://github.com/profanity-im/profanity/releases	-	A TUI based XMPP client.
-screen	GPLv3+	https://savannah.gnu.org/git/?group=screen	http://ftp.gnu.org/gnu/screen/?C=M;O=D	-	A virtual console / terminal multiplexer.
+screen	GPLv3+	hhttps://git.savannah.gnu.org/git/screen.git	http://ftp.gnu.org/gnu/screen/?C=M;O=D	-	A virtual console / terminal multiplexer.
 tmux	ISC	https://github.com/tmux/tmux.git	https://github.com/tmux/tmux/releases	-	tmux is a terminal multiplexer that allows to attach and detach sessions.
 tor	BSD	https://gitweb.torproject.org/tor.git	https://www.torproject.org/download/tor/	-	tor is an anonymization solution using onion routing.
 toybox	0BSD	https://github.com/landley/toybox.git	http://landley.net/toybox/downloads/	-	Toybox is the Userland for OS/1337
