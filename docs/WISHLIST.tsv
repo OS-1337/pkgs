@@ -17,6 +17,7 @@ neovim	Apache 2.0	https://github.com/neovim/neovim.git	https://github.com/neovim
 nyx	GPLv3	https://git.torproject.org/nyx.git	https://nyx.torproject.org/#download	-	nyx is a bandwith graph & configuration tool for tor. It requires Python 2.7+ and Stem 1.5.4+.
 pass	GPLv2+	https://git.zx2c4.com/password-store/	https://www.passwordstore.org/	-	pass is a password and credentials manager that utilizes GnuPG-encrypted files to store the credentials and can be used with git and rsync to version and sync them.
 profanity-im	GPLv3	https://github.com/profanity-im/profanity.git	https://github.com/profanity-im/profanity/releases	-	A TUI based XMPP client.
+screen	GPLv3+	https://savannah.gnu.org/git/?group=screen	http://ftp.gnu.org/gnu/screen/?C=M;O=D	-	A virtual console / terminal multiplexer.
 tmux	ISC	https://github.com/tmux/tmux.git	https://github.com/tmux/tmux/releases	-	tmux is a terminal multiplexer that allows to attach and detach sessions.
 tor	BSD	https://gitweb.torproject.org/tor.git	https://www.torproject.org/download/tor/	-	tor is an anonymization solution using onion routing.
 toybox	0BSD	https://github.com/landley/toybox.git	http://landley.net/toybox/downloads/	-	Toybox is the Userland for OS/1337
