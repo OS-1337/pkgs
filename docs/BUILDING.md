@@ -1,7 +1,7 @@
 # pkgs
-### Packages Repository
-## Build Guide
-How to make Packages for OS/1337
+Packages Repository
+##  Build Guide
+### How to make Packages for OS/1337
 
 ---
 ## Requirements

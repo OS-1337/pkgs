@@ -1,7 +1,7 @@
 # pkgs
-### Packages Repository
-## Package Installation
-How to Install packages
+Packages Repository
+##	Package Installation
+###	How to Install packages
 
 ###	1. Using spm:
 ####	NOTE: This requires spm to be installed and configured!
