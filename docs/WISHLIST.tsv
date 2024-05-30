@@ -24,6 +24,7 @@ ohmyzsh	MIT	https://github.com/ohmyzsh/ohmyzsh.git	https://ohmyz.sh/#install	-	z
 pass	GPLv2+	https://git.zx2c4.com/password-store/	https://www.passwordstore.org/	-	pass is a password and credentials manager that utilizes GnuPG-encrypted files to store the credentials and can be used with git and rsync to version and sync them.
 profanity-im	GPLv3	https://github.com/profanity-im/profanity.git	https://github.com/profanity-im/profanity/releases	-	A TUI based XMPP client.
 screen	GPLv3+	https://git.savannah.gnu.org/git/screen.git	https://ftp.halifax.rwth-aachen.de/gnu/screen/	-	Terminal Multiplexer with Serial and Telnet Support.
+tiny-curl	GPLv3 + commercial	-	https://curl.se/tiny/	-	A minimalist Version of curl that does HTTP(S) GET only. Requires way less resources to run.
 tmux	ISC	https://github.com/tmux/tmux.git	https://github.com/tmux/tmux/releases	-	tmux is a terminal multiplexer that allows to attach and detach sessions.
 tor	BSD	https://gitweb.torproject.org/tor.git	https://www.torproject.org/download/tor/	-	tor is an anonymization solution using onion routing.
 toybox	0BSD	https://github.com/landley/toybox.git	http://landley.net/toybox/downloads/	-	Toybox is the Userland for OS/1337
