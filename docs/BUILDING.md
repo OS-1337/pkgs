@@ -16,6 +16,7 @@ OS/1337 intends to be lightweight and packages should do the same.
 - If your software depends on anything beyond toybox + musl / linux, then you *must include it* with it!
 ##### You cannot rely upon any other dependencies nor dependency checking or resolution *at all*!
 Otherwise it would baloon the repository's size for no good reason.
+- All packages *must* be compiled as *statically linked* and contain their dependencies!
 
 ###
 #### [musl C library](https://musl.libc.org/)
