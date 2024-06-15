@@ -4,7 +4,7 @@ aria2	multiple [GPLv2 and others]	https://github.com/aria2/aria2.git	https://git
 browsh	LGPL-2.1	https://github.com/browsh-org/browsh/browsh.git	https://github.com/browsh-org/browsh	-	A low-bandwith Browser using SSH tunnels.
 btop	Apache 2.0	https://github.com/aristocratos/btop.git	https://github.com/aristocratos/btop/releases	-	btop is a resource monitor that unites multiple tools like top and htop in one. It requires at least an 80x24 console to run and display anything.
 curl	BSD	https://github.com/curl/curl.git	https://github.com/curl/curl/releases	-	curl is a flexible uploader and downloader for files.
-demo.app	-	-	-	-	demo entry to verify that spm works. It should spit out "hello world" when launching.
+demo.app	-	-	-	-	demo entry to verify that spm works. It should spit out hello world when launching.
 dropbear	mixed [BSD/MIT]	https://github.com/mkj/dropbear.git	https://matt.ucc.asn.au/dropbear/releases/	-	SSH Server & Client
 enc	MIT	https://github.com/life4/enc.git	https://github.com/life4/enc/releases	-	A modern and easy to use replacement for GnuPG & OpenPGP.
 exa	MIT	https://github.com/ogham/exa.git	https://github.com/ogham/exa/releases/tag/v0.10.1	-	A modern replacement for ls.
