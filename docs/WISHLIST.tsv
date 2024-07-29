@@ -12,7 +12,7 @@ fish	multiple [GPLv2 and others]	https://github.com/fish-shell/fish-shell.git	ht
 irssi	GPLv2	https://github.com/irssi/irssi.git	https://github.com/irssi/irssi/releases	-	A TUI-based IRC Client.
 kilo	BSD	https://github.com/antirez/kilo/kilo.git	-	-	A minimalist text editor without any dependencies.
 linux	GPLv2	https://git.kernel.org/	https://kernel.org/	-	The Linux Kernel
-lynx	GPLv2	https://invisible-island.net/datafiles/release/lynx-cur.tar.bz2	https://lynx.invisible-island.net/current/index.html	-	lynx is a CLI-based webbrowser
+lynx	GPLv2	https://invisible-island.net/archives/lynx/tarballs/lynx-cur.tar.bz2	https://invisible-island.net/archives/lynx/tarballs/?C=M;O=D	-	lynx is a CLI-based webbrowser
 mc	GPLv3	https://github.com/MidnightCommander/mc.git	https://github.com/MidnightCommander/mc/tags	-	midnight commander is a TUI-based file manager inspired by Norton Commander.
 monero	BSD	https://github.com/monero-project/monero.git	https://github.com/monero-project/monero/releases/tag/v0.18.3.3	-	Monero CLI Wallet / Node / Client.
 musl	MIT	https://git.musl-libc.org/cgit/musl	http://landley.net/toybox/downloads/binaries/toolchains/latest/	-	musl is the C-library which OS/1337 is compiled against. All binaries are to be statically linked against musl. The releases linked are the musl-cross packages that should be used.
