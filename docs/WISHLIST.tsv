@@ -1,8 +1,9 @@
 NAME	LICENSE	SOURCES	RELEASES	ISSUE #	COMMENTS
 aerc	MIT	https://git.sr.ht/~rjarry/aerc	https://git.sr.ht/~rjarry/aerc	-	aerc is a minimalist CLI eMail client
 aria2	multiple [GPLv2 and others]	https://github.com/aria2/aria2.git	https://github.com/aria2/aria2/releases	-	A multi-protocol Downloader supporting BitTorrent and other protocols.
-browsh	LGPL-2.1	https://github.com/browsh-org/browsh/browsh.git	https://github.com/browsh-org/browsh	-	A low-bandwith Browser using SSH tunnels.
+browsh	LGPL 2.1	https://github.com/browsh-org/browsh/browsh.git	https://github.com/browsh-org/browsh	-	A low-bandwith Browser using SSH tunnels.
 btop	Apache 2.0	https://github.com/aristocratos/btop.git	https://github.com/aristocratos/btop/releases	-	btop is a resource monitor that unites multiple tools like top and htop in one. It requires at least an 80x24 console to run and display anything.
+calc	LGPL 2.1	https://github.com/lcn2/calc.git	https://github.com/lcn2/calc/releases	-	calc is a CLI-based calculator supporting arbitrary precision.
 curl	BSD	https://github.com/curl/curl.git	https://github.com/curl/curl/releases	-	curl is a flexible uploader and downloader for files.
 demo.app	0BSD	https://github.com/OS-1337/demo.app/demo.app.git	https://github.com/OS-1337/demo.app/releases	-	demo entry to verify that spm works. It should spit out hello world when launching.
 dropbear	mixed [BSD/MIT]	https://github.com/mkj/dropbear.git	https://matt.ucc.asn.au/dropbear/releases/	-	SSH Server & Client
