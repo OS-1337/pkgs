@@ -8,7 +8,6 @@ curl	BSD	https://github.com/curl/curl.git	https://github.com/curl/curl/releases	
 demo.app	0BSD	https://github.com/OS-1337/demo.app/demo.app.git	https://github.com/OS-1337/demo.app/releases	-	demo entry to verify that spm works. It should spit out hello world when launching.
 dropbear	mixed [BSD/MIT]	https://github.com/mkj/dropbear.git	https://matt.ucc.asn.au/dropbear/releases/	-	SSH Server & Client
 enc	MIT	https://github.com/life4/enc.git	https://github.com/life4/enc/releases	-	A modern and easy to use replacement for GnuPG & OpenPGP.
-exa	MIT	https://github.com/ogham/exa.git	https://github.com/ogham/exa/releases/tag/v0.10.1	-	A modern replacement for ls.
 fish	multiple [GPLv2 and others]	https://github.com/fish-shell/fish-shell.git	https://github.com/fish-shell/fish-shell/releases	-	The Friendly Interactive Shell
 irssi	GPLv2	https://github.com/irssi/irssi.git	https://github.com/irssi/irssi/releases	-	A TUI-based IRC Client.
 kilo	BSD	https://github.com/antirez/kilo/kilo.git	-	-	A minimalist text editor without any dependencies.
@@ -21,7 +20,9 @@ ne	GPLv3	https://github.com/vigna/ne.git	https://github.com/vigna/ne/tags	-	ne, 
 neofetch	MIT	https://github.com/dylanaraps/neofetch.git	https://github.com/dylanaraps/neofetch/releases	-	A System Infromation Screen, written in bash
 neomutt	GPLv2	https://github.com/neomutt/neomutt.git	https://github.com/neomutt/neomutt/releases	-	neomutt is a fork of mutt, a classic yet powerful TUI-based eMail client.
 neovim	Apache 2.0	https://github.com/neovim/neovim.git	https://github.com/neovim/neovim/releases	-	neovim is a versatile and extremely powerful editor for professional users, it is based upon vim which is based upon vi.
-nyx	GPLv3	https://git.torproject.org/nyx.git	https://nyx.torproject.org/#download	-	nyx is a bandwith graph & configuration tool for tor. It requires Python 2.7+ and Stem 1.5.4+.
+neovim-nvchad	GPLv3	https://github.com/NvChad/NvChad.git	https://github.com/NvChad/NvChad/releases	-	NvChad is a neovim-configuration, requires neovim.
+ntfy	APL2.0 + GPLv2	https://github.com/binwiederhier/ntfy.git	https://github.com/binwiederhier/ntfy/releases	-	ntfy is a notification server that allows forwarding notifications to mobile devices from the command line.
+nyx	GPLv3	https://git.torproject.org/nyx.git	https://nyx.torproject.org/#download	-	nyx is a bandwith graph & configuration tool for tor. It requires Python 2.7+ and Stem 1.5.4+ as well as tor.
 ohmyzsh	MIT	https://github.com/ohmyzsh/ohmyzsh.git	https://ohmyz.sh/#install	-	zsh configuration manager, requires zsh.
 pass	GPLv2+	https://git.zx2c4.com/password-store/	https://www.passwordstore.org/	-	pass is a password and credentials manager that utilizes GnuPG-encrypted files to store the credentials and can be used with git and rsync to version and sync them.
 profanity-im	GPLv3	https://github.com/profanity-im/profanity.git	https://github.com/profanity-im/profanity/releases	-	A TUI based XMPP client.
