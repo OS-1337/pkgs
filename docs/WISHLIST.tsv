@@ -27,7 +27,6 @@ nyx	GPLv3	https://git.torproject.org/nyx.git	https://nyx.torproject.org/#downloa
 ohmyzsh	MIT	https://github.com/ohmyzsh/ohmyzsh.git	https://ohmyz.sh/#install	-	zsh configuration manager, requires zsh.
 pass	GPLv2+	https://git.zx2c4.com/password-store/	https://www.passwordstore.org/	-	pass is a password and credentials manager that utilizes GnuPG-encrypted files to store the credentials and can be used with git and rsync to version and sync them.
 profanity-im	GPLv3	https://github.com/profanity-im/profanity.git	https://github.com/profanity-im/profanity/releases	-	A TUI based XMPP client.
-screen	GPLv3+	https://git.savannah.gnu.org/git/screen.git	https://ftp.halifax.rwth-aachen.de/gnu/screen/	-	Terminal Multiplexer with Serial and Telnet Support.
 spm	MIT	https://github.com/OS-1337/spm.git	https://github.com/OS-1337/spm/releases	-	The package manager for OS/1337.
 tmux	ISC	https://github.com/tmux/tmux.git	https://github.com/tmux/tmux/releases	-	tmux is a terminal multiplexer that allows to attach and detach sessions.
 tor	BSD	https://gitweb.torproject.org/tor.git	https://www.torproject.org/download/tor/	-	tor is an anonymization solution using onion routing.
