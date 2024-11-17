@@ -4,10 +4,12 @@ aria2	multiple [GPLv2 and others]	https://github.com/aria2/aria2.git	https://git
 browsh	LGPL 2.1	https://github.com/browsh-org/browsh/browsh.git	https://github.com/browsh-org/browsh	-	A low-bandwith Browser using SSH tunnels.
 btop	Apache 2.0	https://github.com/aristocratos/btop.git	https://github.com/aristocratos/btop/releases	-	btop is a resource monitor that unites multiple tools like top and htop in one. It requires at least an 80x24 console to run and display anything.
 calc	LGPL 2.1	https://github.com/lcn2/calc.git	https://github.com/lcn2/calc/releases	-	calc is a CLI-based calculator supporting arbitrary precision.
+cramfs-tools	GPLv2	-	https://sourceforge.net/projects/cramfs/files/	-	Allows for generating and editing CramFS images, wich is a read-only (ROM) compressed filesystem that is intended to be loaded into RAM.
 curl	BSD	https://github.com/curl/curl.git	https://github.com/curl/curl/releases	-	curl is a flexible uploader and downloader for files.
 curl-tiny	GPLv3 + commercial	-	https://curl.se/tiny/	-	A minimalist Version of curl that does HTTP(S) GET only. Requires way less resources to run.
 demo.app	0BSD	https://github.com/OS-1337/demo.app/demo.app.git	https://github.com/OS-1337/demo.app/releases	-	demo entry to verify that spm works. It should spit out hello world when launching.
 dropbear	mixed [BSD/MIT]	https://github.com/mkj/dropbear.git	https://matt.ucc.asn.au/dropbear/releases/	-	SSH Server & Client
+duplicity	GPLv2+	https://gitlab.com/duplicity/duplicity.git	https://gitlab.com/duplicity/duplicity/-/releases	-	A Backup tool that uses lirsync and supports encrypting backups.
 enc	MIT	https://github.com/life4/enc.git	https://github.com/life4/enc/releases	-	A modern and easy to use replacement for GnuPG & OpenPGP.
 fish	multiple [GPLv2 and others]	https://github.com/fish-shell/fish-shell.git	https://github.com/fish-shell/fish-shell/releases	-	The Friendly Interactive Shell
 irssi	GPLv2	https://github.com/irssi/irssi.git	https://github.com/irssi/irssi/releases	-	A TUI-based IRC Client.
@@ -25,13 +27,19 @@ neovim-nvchad	GPLv3	https://github.com/NvChad/NvChad.git	https://github.com/NvCh
 ntfy	APL2.0 + GPLv2	https://github.com/binwiederhier/ntfy.git	https://github.com/binwiederhier/ntfy/releases	-	ntfy is a notification server that allows forwarding notifications to mobile devices from the command line.
 nyx	GPLv3	https://git.torproject.org/nyx.git	https://nyx.torproject.org/#download	-	nyx is a bandwith graph & configuration tool for tor. It requires Python 2.7+ and Stem 1.5.4+ as well as tor.
 ohmyzsh	MIT	https://github.com/ohmyzsh/ohmyzsh.git	https://ohmyz.sh/#install	-	zsh configuration manager, requires zsh.
+oshi	WTFPL	https://github.com/somenonymous/OshiUpload.git	-	-	A Filehosting & -Sharing Server written in Perl. Supports up- and downloads via curl. Reference Instance can be found at oshi.at.
 pass	GPLv2+	https://git.zx2c4.com/password-store/	https://www.passwordstore.org/	-	pass is a password and credentials manager that utilizes GnuPG-encrypted files to store the credentials and can be used with git and rsync to version and sync them.
 profanity-im	GPLv3	https://github.com/profanity-im/profanity.git	https://github.com/profanity-im/profanity/releases	-	A TUI based XMPP client.
+rclone	MIT	https://github.com/rclone/rclone.git	https://github.com/rclone/rclone/releases	-	A sync utility that allows syncing files rsync-style to high-latency storage like webhosters.
+rdiff-backup	GPLv2+	https://github.com/rdiff-backup/rdiff-backup.git	https://github.com/rdiff-backup/rdiff-backup/releases	-	A Backup Software that uses "reverse deltas" to offer a consistent backup. Requires Python.
+rsync	GPLv3+	https://github.com/RsyncProject/rsync.git	https://github.com/RsyncProject/rsync/tags	-	A versatile file copying tool that can be used for backup & restore in a push/pull configuration.
 spm	MIT	https://github.com/OS-1337/spm.git	https://github.com/OS-1337/spm/releases	-	The package manager for OS/1337.
+squashfs-tools	GPLv2	https://github.com/plougher/squashfs-tools.git	https://github.com/plougher/squashfs-tools/releases	-	Tools to generate and extract SquashFS images, a compressed, readonly filesystem used for RAM-disks. It's more powerful but also more resource-hungry than CramFS.
 tmux	ISC	https://github.com/tmux/tmux.git	https://github.com/tmux/tmux/releases	-	tmux is a terminal multiplexer that allows to attach and detach sessions.
 tor	BSD	https://gitweb.torproject.org/tor.git	https://www.torproject.org/download/tor/	-	tor is an anonymization solution using onion routing.
 toybox	0BSD	https://github.com/landley/toybox.git	http://landley.net/toybox/downloads/	-	Toybox is the Userland for OS/1337
-util-linux	GPLv2	git://git.kernel.org/pub/scm/utils/util-linux/util-linux.git	https://mirrors.edge.kernel.org/pub/linux/utils/util-linux/	-	Various Utilities for Linux.
+util-linux	GPLv2	git://git.kernel.org/pub/scm/utils/util-linux/util-linux.git	https://mirrors.edge.kernel.org/pub/linux/utils/util-linux/	-	Various Utilities for Linux. Includes useful commands like cfdisk,
+wipe	GPLv2	-	https://sourceforge.net/projects/wipe/files/	-	A data erasure tool that overwrites storage media.
 xmrig	GPLv3	https://github.com/xmrig/xmrig.git	https://github.com/xmrig/xmrig/releases	-	Monero Miner
 zsh	MIT modern	-	http://ftp.funet.fi/pub/unix/shells/zsh/	-	A classic Unix shell
 zulip-term	Apache 2.0	https://github.com/zulip/zulip-terminal.git	https://github.com/zulip/zulip-terminal/releases	-	A TUI-based Client for Zulip Chat. Requires Python.
