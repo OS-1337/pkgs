@@ -31,7 +31,7 @@ oshi	WTFPL	https://github.com/somenonymous/OshiUpload.git	-	-	A Filehosting & -S
 pass	GPLv2+	https://git.zx2c4.com/password-store/	https://www.passwordstore.org/	-	pass is a password and credentials manager that utilizes GnuPG-encrypted files to store the credentials and can be used with git and rsync to version and sync them.
 profanity-im	GPLv3	https://github.com/profanity-im/profanity.git	https://github.com/profanity-im/profanity/releases	-	A TUI based XMPP client.
 rclone	MIT	https://github.com/rclone/rclone.git	https://github.com/rclone/rclone/releases	-	A sync utility that allows syncing files rsync-style to high-latency storage like webhosters.
-rdiff-backup	GPLv2+	https://github.com/rdiff-backup/rdiff-backup.git	https://github.com/rdiff-backup/rdiff-backup/releases	-	A Backup Software that uses "reverse deltas" to offer a consistent backup. Requires Python.
+rdiff-backup	GPLv2+	https://github.com/rdiff-backup/rdiff-backup.git	https://github.com/rdiff-backup/rdiff-backup/releases	-	A Backup Software that uses *reverse deltas* to offer a consistent backup. Requires Python.
 rsync	GPLv3+	https://github.com/RsyncProject/rsync.git	https://github.com/RsyncProject/rsync/tags	-	A versatile file copying tool that can be used for backup & restore in a push/pull configuration.
 spm	MIT	https://github.com/OS-1337/spm.git	https://github.com/OS-1337/spm/releases	-	The package manager for OS/1337.
 squashfs-tools	GPLv2	https://github.com/plougher/squashfs-tools.git	https://github.com/plougher/squashfs-tools/releases	-	Tools to generate and extract SquashFS images, a compressed, readonly filesystem used for RAM-disks. It's more powerful but also more resource-hungry than CramFS.
