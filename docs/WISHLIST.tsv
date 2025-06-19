@@ -51,6 +51,7 @@ tym	EUPL	http://dragoman.org/tym/tym	http://dragoman.org/tym/	-	Time rsYnc Machi
 util-linux	GPLv2	git://git.kernel.org/pub/scm/utils/util-linux/util-linux.git	https://mirrors.edge.kernel.org/pub/linux/utils/util-linux/	-	Various Utilities for Linux. Includes useful commands like cfdisk,
 weechat	GPLv3	https://github.com/weechat/weechat.git	https://github.com/weechat/weechat/releases	-	A modular, extensible Chat client for the terminal with IRC support built-in. Not to be confused wit WeChat!!!
 wipe	GPLv2	-	https://sourceforge.net/projects/wipe/files/	-	A data erasure tool that overwrites storage media.
+wwiv	Apache 2.0	https://github.com/wwivbbs/wwiv.git	https://github.com/wwivbbs/wwiv/releases	-
 xmrig	GPLv3	https://github.com/xmrig/xmrig.git	https://github.com/xmrig/xmrig/releases	-	Monero Miner
 yazi	MIT	https://github.com/sxyazi/yazi.git	https://github.com/sxyazi/yazi/releases	-	Blazing fast terminal file manager written in Rust, based on async I/O.
 zoxide	MIT	https://github.com/ajeetdsouza/zoxide.git	https://github.com/ajeetdsouza/zoxide/releases	-	A smarter cd command. Supports all major shells.
