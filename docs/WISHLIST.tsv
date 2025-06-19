@@ -45,7 +45,7 @@ spm	MIT	https://github.com/OS-1337/spm.git	https://github.com/OS-1337/spm/releas
 squashfs-tools	GPLv2	https://github.com/plougher/squashfs-tools.git	https://github.com/plougher/squashfs-tools/releases	-	Tools to generate and extract SquashFS images, a compressed, readonly filesystem used for RAM-disks. It's more powerful but also more resource-hungry than CramFS.
 tiv	Apache 2.0	https://github.com/stefanhaustein/TerminalImageViewer.git	https://github.com/stefanhaustein/TerminalImageViewer/releases	-	Small C++ program to display images in a (modern) terminal using RGB ANSI codes and unicode block graphics characters.
 tmux	ISC	https://github.com/tmux/tmux.git	https://github.com/tmux/tmux/releases	-	tmux is a terminal multiplexer that allows to attach and detach sessions.
-tor	BSD	https://gitweb.torproject.org/tor.git	https://www.torproject.org/download/tor/	-	tor is an anonymization solution using onion routing.
+tor	BSD	https://gitweb.torproject.org/tor.git	https://www.torproject.org/download/tor/	-	Tor is an anonymization solution using onion routing.
 toybox	0BSD	https://github.com/landley/toybox.git	http://landley.net/toybox/downloads/	-	Toybox is the Userland for OS/1337
 tym	EUPL	http://dragoman.org/tym/tym	http://dragoman.org/tym/	-	Time rsYnc Machine, a backup utility with the approach popularized by the Time Machine of Apple.
 util-linux	GPLv2	git://git.kernel.org/pub/scm/utils/util-linux/util-linux.git	https://mirrors.edge.kernel.org/pub/linux/utils/util-linux/	-	Various Utilities for Linux. Includes useful commands like cfdisk,
