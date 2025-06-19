@@ -49,6 +49,7 @@ tor	BSD	https://gitweb.torproject.org/tor.git	https://www.torproject.org/downloa
 toybox	0BSD	https://github.com/landley/toybox.git	http://landley.net/toybox/downloads/	-	Toybox is the Userland for OS/1337
 tym	EUPL	http://dragoman.org/tym/tym	http://dragoman.org/tym/	-	Time rsYnc Machine, a backup utility with the approach popularized by the Time Machine of Apple.
 util-linux	GPLv2	git://git.kernel.org/pub/scm/utils/util-linux/util-linux.git	https://mirrors.edge.kernel.org/pub/linux/utils/util-linux/	-	Various Utilities for Linux. Includes useful commands like cfdisk,
+weechat	GPLv3	https://github.com/weechat/weechat.git	https://github.com/weechat/weechat/releases	-	A modular, extensible Chat client for the terminal with IRC support built-in. Not to be confused wit WeChat!!!
 wipe	GPLv2	-	https://sourceforge.net/projects/wipe/files/	-	A data erasure tool that overwrites storage media.
 xmrig	GPLv3	https://github.com/xmrig/xmrig.git	https://github.com/xmrig/xmrig/releases	-	Monero Miner
 yazi	MIT	https://github.com/sxyazi/yazi.git	https://github.com/sxyazi/yazi/releases	-	Blazing fast terminal file manager written in Rust, based on async I/O.
