@@ -21,6 +21,7 @@ kilo	BSD	https://github.com/antirez/kilo/kilo.git	-	-	A minimalist text editor w
 linux	GPLv2	https://git.kernel.org/	https://kernel.org/	-	The Linux Kernel
 lynx	GPLv2	https://invisible-island.net/archives/lynx/tarballs/lynx-cur.tar.bz2	https://invisible-island.net/archives/lynx/tarballs/?C=M;O=D	-	lynx is a CLI-based webbrowser
 mc	GPLv3	https://github.com/MidnightCommander/mc.git	https://github.com/MidnightCommander/mc/tags	-	midnight commander is a TUI-based file manager inspired by Norton Commander.
+mkp224o	CC0	https://github.com/cathugger/mkp224o.git	https://github.com/cathugger/mkp224o/releases	-	vanity address generator for tor onion v3 (ed25519) OnionServices.
 monero	BSD	https://github.com/monero-project/monero.git	https://github.com/monero-project/monero/releases/tag/v0.18.3.3	-	Monero CLI Wallet / Node / Client.
 mosh	mixed [GPLv3 + licensed patents]	https://github.com/mobile-shell/mosh.git	https://github.com/mobile-shell/mosh/releases	-	mobile shell is an alternative to SSH that is tolerant to unstable connections and changing IP addresses. It's able to automatically resume sessions.
 musl	MIT	https://git.musl-libc.org/cgit/musl	http://landley.net/toybox/downloads/binaries/toolchains/latest/	-	musl is the C-library which OS/1337 is compiled against. All binaries are to be statically linked against musl. The releases linked are the musl-cross packages that should be used.
