@@ -41,7 +41,7 @@ mle	editor	extra	Apache 2.0	https://github.com/adsr/mle.git	https://github.com/a
 monero	network	extra	BSD	https://github.com/monero-project/monero.git	https://github.com/monero-project/monero/releases/tag/v0.18.3.3	-	Monero CLI Wallet / Node / Client.
 mosh	browser	extra	mixed [GPLv3 + licensed patents]	https://github.com/mobile-shell/mosh.git	https://github.com/mobile-shell/mosh/releases	-	mobile shell is an alternative to SSH that is tolerant to unstable connections and changing IP addresses. It's able to automatically resume sessions.
 neovim	editor	extra	Apache 2.0	https://github.com/neovim/neovim.git	https://github.com/neovim/neovim/releases	-	neovim is a versatile and extremely powerful editor for professional users, it is based upon vim which is based upon vi.
-neovim-nvchad	config	extra	GPLv3	https://github.com/NvChad/NvChad.git	https://github.com/NvChad/NvChad/releases	-	NvChad is a neovim-configuration, requires neovim.
+nvchad	config	extra	GPLv3	https://github.com/NvChad/NvChad.git	https://github.com/NvChad/NvChad/releases	-	NvChad is a neovim-configuration, requires neovim.
 ntfy	server	extra	APL2.0 + GPLv2	https://github.com/binwiederhier/ntfy.git	https://github.com/binwiederhier/ntfy/releases	-	ntfy is a notification server that allows forwarding notifications to mobile devices from the command line.
 nyx	monitor	extra	GPLv3	https://git.torproject.org/nyx.git	https://nyx.torproject.org/#download	-	nyx is a bandwith graph & configuration tool for tor. It requires Python 2.7+ and Stem 1.5.4+ as well as tor.
 ohmyzsh	config	extra	MIT	https://github.com/ohmyzsh/ohmyzsh.git	https://ohmyz.sh/#install	-	zsh configuration manager, requires zsh.
