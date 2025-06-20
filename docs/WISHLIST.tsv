@@ -47,6 +47,7 @@ rdiff-backup	GPLv2+	https://github.com/rdiff-backup/rdiff-backup.git	https://git
 rsync	GPLv3+	https://github.com/RsyncProject/rsync.git	https://github.com/RsyncProject/rsync/tags	-	A versatile file copying tool that can be used for backup & restore in a push/pull configuration.
 spm	MIT	https://github.com/OS-1337/spm.git	https://github.com/OS-1337/spm/releases	-	The package manager for OS/1337.
 squashfs-tools	GPLv2	https://github.com/plougher/squashfs-tools.git	https://github.com/plougher/squashfs-tools/releases	-	Tools to generate and extract SquashFS images, a compressed, readonly filesystem used for RAM-disks. It's more powerful but also more resource-hungry than CramFS.
+tilde	GPLv3	https://github.com/gphalkes/tilde.git	https://github.com/gphalkes/tilde/releases	-	A TUI-based text editor with an ncurses UI.
 tiv	Apache 2.0	https://github.com/stefanhaustein/TerminalImageViewer.git	https://github.com/stefanhaustein/TerminalImageViewer/releases	-	Small C++ program to display images in a (modern) terminal using RGB ANSI codes and unicode block graphics characters.
 tmux	ISC	https://github.com/tmux/tmux.git	https://github.com/tmux/tmux/releases	-	tmux is a terminal multiplexer that allows to attach and detach sessions.
 tor	BSD	https://gitweb.torproject.org/tor.git	https://www.torproject.org/download/tor/	-	Tor is an anonymization solution using onion routing.
