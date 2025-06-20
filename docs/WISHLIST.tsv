@@ -16,7 +16,7 @@ fish	multiple [GPLv2 and others]	https://github.com/fish-shell/fish-shell.git	ht
 fd	Apache 2.0 + MIT	https://github.com/sharkdp/fd.git	https://github.com/sharkdp/fd/releases	-	A simple, fast and user-friendly alternative to 'find'.
 fzf	MIT	https://github.com/junegunn/fzf.git	https://github.com/junegunn/fzf/releases	-	A command line fuzzy finder.
 git	GPLv2	https://github.com/git/git.git	https://www.kernel.org/pub/software/scm/git/	-	A flexible sourcecode management to handle both distributed teams and intelligent source code managment.
-irssi	GPLv2	https://codeberg.org/irssi/irssi.git	https://codeberg.org/irssi/irssi/releases	A TUI-based IRC Client.
+irssi	GPLv2	https://codeberg.org/irssi/irssi.git	https://codeberg.org/irssi/irssi/releases	-	A TUI-based IRC Client.
 kakoune	Unilicense	https://github.com/mawww/kakoune.git	https://github.com/mawww/kakoune/releases	-	A vi-style model editor with some nifty tricks.
 kilo	BSD	https://github.com/antirez/kilo/kilo.git	-	-	A minimalist text editor without any dependencies.
 linux	GPLv2	https://git.kernel.org/	https://kernel.org/	-	The Linux Kernel
