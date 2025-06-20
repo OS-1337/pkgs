@@ -55,5 +55,5 @@ wwiv	Apache 2.0	https://github.com/wwivbbs/wwiv.git	https://github.com/wwivbbs/w
 xmrig	GPLv3	https://github.com/xmrig/xmrig.git	https://github.com/xmrig/xmrig/releases	-	Monero Miner
 yazi	MIT	https://github.com/sxyazi/yazi.git	https://github.com/sxyazi/yazi/releases	-	Blazing fast terminal file manager written in Rust, based on async I/O.
 zoxide	MIT	https://github.com/ajeetdsouza/zoxide.git	https://github.com/ajeetdsouza/zoxide/releases	-	A smarter cd command. Supports all major shells.
-zsh	MIT modern	-	http://ftp.funet.fi/pub/unix/shells/zsh/	-	A classic Unix shell
+zsh	MIT modern	https://github.com/zsh-users/zsh.git	http://ftp.funet.fi/pub/unix/shells/zsh/	-	A classic Unix shell
 zulip-term	Apache 2.0	https://github.com/zulip/zulip-terminal.git	https://github.com/zulip/zulip-terminal/releases	-	A TUI-based Client for Zulip Chat. Requires Python.
