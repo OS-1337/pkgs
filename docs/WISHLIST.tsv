@@ -7,8 +7,8 @@ toybox	userland	core	0BSD	https://github.com/landley/toybox.git	http://landley.n
 btop	monitor	main	Apache 2.0	https://github.com/aristocratos/btop.git	https://github.com/aristocratos/btop/releases	-	btop is a resource monitor that unites multiple tools like top and htop in one. It requires at least an 80x24 console to run and display anything.
 calc	utility	main	LGPL 2.1	https://github.com/lcn2/calc.git	https://github.com/lcn2/calc/releases	-	calc is a CLI-based calculator supporting arbitrary precision.
 cramfs-tools	filesystem	main	GPLv2	-	https://sourceforge.net/projects/cramfs/files/	-	Allows for generating and editing CramFS images, wich is a read-only (ROM) compressed filesystem that is intended to be loaded into RAM.
-curl	utility	main	BSD	https://github.com/curl/curl.git	https://github.com/curl/curl/releases	-	curl is a flexible uploader and downloader for files.
-curl-tiny	utility	main	GPLv3 + commercial	-	https://curl.se/tiny/	-	A minimalist Version of curl that does HTTP(S) GET only. Requires way less resources to run.
+curl	network	main	BSD	https://github.com/curl/curl.git	https://github.com/curl/curl/releases	-	curl is a flexible uploader and downloader for files.
+curl-tiny	network	main	GPLv3 + commercial	-	https://curl.se/tiny/	-	A minimalist Version of curl that does HTTP(S) GET only. Requires way less resources to run.
 demo.app	development	main	0BSD	https://github.com/OS-1337/demo.app/demo.app.git	https://github.com/OS-1337/demo.app/releases	-	demo entry to verify that spm works. It should spit out hello world when launching.
 dropbear	network	main	mixed [BSD/MIT]	https://github.com/mkj/dropbear.git	https://matt.ucc.asn.au/dropbear/releases/	-	SSH Server & Client - full package.
 enc	encryption	main	MIT	https://github.com/life4/enc.git	https://github.com/life4/enc/releases	-	A modern and easy to use replacement for GnuPG & OpenPGP.
