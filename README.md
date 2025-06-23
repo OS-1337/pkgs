@@ -13,7 +13,7 @@ Packages are being installed, uninstalled and updated using [spm](https://github
 For 64bit AMD64-compatible Systems
 - [List of Packages](./bin/amd64/index.tsv)
 ###
-#### [ix86](./bin/ix86)
+#### [ix86](bin/i486)
 For 32bit i386-compatible Systems
 - [List of Packages](./bin/ix64/index.tsv)
 ###
