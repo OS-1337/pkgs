@@ -4,6 +4,7 @@ kilo	editor	core	BSD	https://github.com/antirez/kilo/kilo.git	-	-	A minimalist t
 linux	kernel	core	GPLv2	https://git.kernel.org/	https://kernel.org/	-	The Linux Kernel
 musl	development	core	MIT	https://git.musl-libc.org/cgit/musl	http://landley.net/toybox/downloads/binaries/toolchains/latest/	-	musl is the C-library which OS/1337 is compiled against. All binaries are to be statically linked against musl. The releases linked are the musl-cross packages that should be used.
 toybox	userland	core	0BSD	https://github.com/landley/toybox.git	http://landley.net/toybox/downloads/	-	Toybox is the Userland for OS/1337
+---	---	---	---	---	---	---	---
 btop	monitor	main	Apache 2.0	https://github.com/aristocratos/btop.git	https://github.com/aristocratos/btop/releases	-	btop is a resource monitor that unites multiple tools like top and htop in one. It requires at least an 80x24 console to run and display anything.
 calc	utility	main	LGPL 2.1	https://github.com/lcn2/calc.git	https://github.com/lcn2/calc/releases	-	calc is a CLI-based calculator supporting arbitrary precision.
 cramfs-tools	filesystem	main	GPLv2	-	https://sourceforge.net/projects/cramfs/files/	-	Allows for generating and editing CramFS images, wich is a read-only (ROM) compressed filesystem that is intended to be loaded into RAM.
@@ -24,11 +25,13 @@ spm	utility	main	MIT	https://github.com/OS-1337/spm.git	https://github.com/OS-13
 squashfs-tools	filesystem	main	GPLv2	https://github.com/plougher/squashfs-tools.git	https://github.com/plougher/squashfs-tools/releases	-	Tools to generate and extract SquashFS images, a compressed, readonly filesystem used for RAM-disks. It's more powerful but also more resource-hungry than CramFS.
 tmux	utility	main	ISC	https://github.com/tmux/tmux.git	https://github.com/tmux/tmux/releases	-	tmux is a terminal multiplexer that allows to attach and detach sessions.
 util-linux	utility	main	GPLv2	git://git.kernel.org/pub/scm/utils/util-linux/util-linux.git	https://mirrors.edge.kernel.org/pub/linux/utils/util-linux/	-	Various Utilities for Linux. Includes useful commands like cfdisk,
+---	---	----	----	----	----	----	---
 aerc	email	extra	MIT	https://git.sr.ht/~rjarry/aerc	https://git.sr.ht/~rjarry/aerc	-	aerc is a minimalist CLI eMail client
 aria2	download	extra	multiple [GPLv2 and others]	https://github.com/aria2/aria2.git	https://github.com/aria2/aria2/releases	-	A multi-protocol Downloader supporting BitTorrent and other protocols.
 ash	editor	extra	GPLv2	https://github.com/akashnag/ash.git	https://github.com/akashnag/ash/releases	-	A simple and clean CLI Text Editor.
 bat	utility	extra	Apache 2.0 + MIT	https://github.com/sharkdp/bat.git	https://github.com/sharkdp/bat/releases	-	A cat(1) clone with wings. Can also be used as a better version of tail.
 browsh	browser	extra	LGPL 2.1	https://github.com/browsh-org/browsh/browsh.git	https://github.com/browsh-org/browsh	-	A low-bandwith Browser using SSH tunnels.
+cups	server	extra	Apache 2.0	https://github.com/apple/cups.git	https://github.com/apple/cups/releases	-	The Comon Unix Printing System (cups) is the standard for handling print jobs among UNIX-esque systems.
 duplicity	backup	extra	GPLv2+	https://gitlab.com/duplicity/duplicity.git	https://gitlab.com/duplicity/duplicity/-/releases	-	A Backup tool that uses lirsync and supports encrypting backups.
 fd	utility	extra	Apache 2.0 + MIT	https://github.com/sharkdp/fd.git	https://github.com/sharkdp/fd/releases	-	A simple, fast and user-friendly alternative to 'find'.
 fzf	utility	extra	MIT	https://github.com/junegunn/fzf.git	https://github.com/junegunn/fzf/releases	-	A command line fuzzy finder.
