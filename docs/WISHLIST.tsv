@@ -67,6 +67,7 @@ wipe	utility	extra	GPLv2	-	https://sourceforge.net/projects/wipe/files/	-	A data
 wwiv	server	extra	Apache 2.0	https://github.com/wwivbbs/wwiv.git	https://github.com/wwivbbs/wwiv/releases	-	A BBS Server.
 xmrig	encryption	extra	GPLv3	https://github.com/xmrig/xmrig.git	https://github.com/xmrig/xmrig/releases	-	Monero Miner
 yazi	files	extra	MIT	https://github.com/sxyazi/yazi.git	https://github.com/sxyazi/yazi/releases	-	Blazing fast terminal file manager written in Rust, based on async I/O.
+ytdlp	network	extra	Unilicense	https://github.com/ytdl-org/youtube-dl.git	https://github.com/ytdl-org/youtube-dl/releases/tag/2021.12.17	-	A downloader for online videos. Supports various platforms.
 zoxide	utility	extra	MIT	https://github.com/ajeetdsouza/zoxide.git	https://github.com/ajeetdsouza/zoxide/releases	-	A smarter cd command. Supports all major shells.
 zsh	shell	extra	MIT modern	https://github.com/zsh-users/zsh.git	http://ftp.funet.fi/pub/unix/shells/zsh/	-	A classic Unix shell
 zulip-term	chat	extra	Apache 2.0	https://github.com/zulip/zulip-terminal.git	https://github.com/zulip/zulip-terminal/releases	-	A TUI-based Client for Zulip Chat. Requires Python.
