@@ -60,7 +60,6 @@ systemd	userland	extra	GPLv2	https://github.com/systemd/systemd.git	https://gith
 tilde	editor	extra	GPLv3	https://github.com/gphalkes/tilde.git	https://github.com/gphalkes/tilde/releases	-	A TUI-based text editor with an ncurses UI.https://gitlab.freedesktop.org/pipewire/pipewire/-/releases
 tiv	media	extra	Apache 2.0	https://github.com/stefanhaustein/TerminalImageViewer.git	https://github.com/stefanhaustein/TerminalImageViewer/releases	-	Small C++ program to display images in a (modern) terminal using RGB ANSI codes and unicode block graphics characters.
 tor	network	extra	BSD	https://gitweb.torproject.org/tor.git	https://www.torproject.org/download/tor/	-	Tor is an anonymization solution using onion routing.
-tuemacs	editor	extra	non-commercial	https://github.com/torvalds/uemacs.git	-	.	Torvalds' uEmacs/PK 4.0, based on MicroEMACS 3.9e.
 tym	backup	extra	EUPL	http://dragoman.org/tym/tym	http://dragoman.org/tym/	-	Time rsYnc Machine, a backup utility with the approach popularized by the Time Machine of Apple.
 weechat	chat	extra	GPLv3	https://github.com/weechat/weechat.git	https://github.com/weechat/weechat/releases	-	A modular, extensible Chat client for the terminal with IRC support built-in. Not to be confused wit WeChat!!!
 wipe	utility	extra	GPLv2	-	https://sourceforge.net/projects/wipe/files/	-	A data erasure tool that overwrites storage media.
