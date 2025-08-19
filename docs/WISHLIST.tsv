@@ -2,6 +2,7 @@ NAME	TAG	GROUP	LICENSE	SOURCES	RELEASES	ISSUE #	COMMENTS
 dbclient	network	core	mixed [BSD/MIT]	https://github.com/mkj/dropbear.git	https://matt.ucc.asn.au/dropbear/releases/	-	SSH Client - minimalist version of dropbear without server functionality.
 kilo	editor	core	BSD	https://github.com/antirez/kilo/kilo.git	-	-	A minimalist text editor without any dependencies.
 linux	kernel	core	GPLv2	https://git.kernel.org/	https://kernel.org/	-	The Linux Kernel
+mlb	utility	core	GPLv3	https://github.com/OS-1337/mlb.git	https://github.com/OS-1337/mlb/releases	-	The Minimal Linux Bootloader is the default for loading OS/1337 from 1440kB floppy.
 musl	development	core	MIT	https://git.musl-libc.org/cgit/musl	http://landley.net/toybox/downloads/binaries/toolchains/latest/	-	musl is the C-library which OS/1337 is compiled against. All binaries are to be statically linked against musl. The releases linked are the musl-cross packages that should be used.
 toybox	userland	core	0BSD	https://github.com/landley/toybox.git	http://landley.net/toybox/downloads/	-	Toybox is the Userland for OS/1337
 ---	---	---	---	---	---	---	---
