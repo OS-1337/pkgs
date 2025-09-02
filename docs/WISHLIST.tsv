@@ -34,6 +34,7 @@ bat	utility	extra	Apache 2.0 + MIT	https://github.com/sharkdp/bat.git	https://gi
 browsh	browser	extra	LGPL 2.1	https://github.com/browsh-org/browsh/browsh.git	https://github.com/browsh-org/browsh	-	A low-bandwith Browser using SSH tunnels.
 cups	server	extra	Apache 2.0	https://github.com/apple/cups.git	https://github.com/apple/cups/releases	-	The Comon Unix Printing System (cups) is the standard for handling print jobs among UNIX-esque systems.
 duplicity	backup	extra	GPLv2+	https://gitlab.com/duplicity/duplicity.git	https://gitlab.com/duplicity/duplicity/-/releases	-	A Backup tool that uses lirsync and supports encrypting backups.
+etcwebdav	server	extra	Apache 2.0	https://github.com/ag88/embtomcatwebdav.git	https://github.com/ag88/embtomcatwebdav/releases	-	Embedded Tomcat WebDAV Server: A minimalist HTTP(S) & WebDAV server to serve a local directory and allow up- and downloading files easily.
 fd	utility	extra	Apache 2.0 + MIT	https://github.com/sharkdp/fd.git	https://github.com/sharkdp/fd/releases	-	A simple, fast and user-friendly alternative to 'find'.
 fzf	utility	extra	MIT	https://github.com/junegunn/fzf.git	https://github.com/junegunn/fzf/releases	-	A command line fuzzy finder.
 helix	editor	extra	MPL 2.0	https://github.com/helix-editor/helix.git	https://github.com/helix-editor/helix/releases	-	A post-modern modal text editor written in Rust.
