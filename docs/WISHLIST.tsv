@@ -43,7 +43,7 @@ kakoune	editor	extra	Unilicense	https://github.com/mawww/kakoune.git	https://git
 micro	editor	extra	MIT	https://github.com/zyedidia/micro.git	https://github.com/zyedidia/micro/releases	-	A modern and intuitive terminal-based text editor, not dissimilar from nano.
 mkp224o	encryption	extra	CC0	https://github.com/cathugger/mkp224o.git	https://github.com/cathugger/mkp224o/releases	-	vanity address generator for tor onion v3 (ed25519) OnionServices.
 mle	editor	extra	Apache 2.0	https://github.com/adsr/mle.git	https://github.com/adsr/mle/releases	-	A flexible terminal-based text editor written in C
-monero	network	extra	BSD	https://github.com/monero-project/monero.git	https://github.com/monero-project/monero/releases/tag/v0.18.3.3	-	Monero CLI Wallet / Node / Client.
+monero	network	extra	BSD	https://github.com/monero-project/monero.git	https://github.com/monero-project/monero/releases/	-	Monero CLI Wallet / Node / Client.
 mosh	network	extra	mixed [GPLv3 + licensed patents]	https://github.com/mobile-shell/mosh.git	https://github.com/mobile-shell/mosh/releases	-	mobile shell is an alternative to SSH that is tolerant to unstable connections and changing IP addresses. It's able to automatically resume sessions.
 neovim	editor	extra	Apache 2.0	https://github.com/neovim/neovim.git	https://github.com/neovim/neovim/releases	-	neovim is a versatile and extremely powerful editor for professional users, it is based upon vim which is based upon vi.
 nvchad	config	extra	GPLv3	https://github.com/NvChad/NvChad.git	https://github.com/NvChad/NvChad/releases	-	NvChad is a neovim-configuration, requires neovim.
@@ -69,7 +69,7 @@ wipe	utility	extra	GPLv2	-	https://sourceforge.net/projects/wipe/files/	-	A data
 wwiv	server	extra	Apache 2.0	https://github.com/wwivbbs/wwiv.git	https://github.com/wwivbbs/wwiv/releases	-	A BBS Server.
 xmrig	encryption	extra	GPLv3	https://github.com/xmrig/xmrig.git	https://github.com/xmrig/xmrig/releases	-	Monero Miner
 yazi	files	extra	MIT	https://github.com/sxyazi/yazi.git	https://github.com/sxyazi/yazi/releases	-	Blazing fast terminal file manager written in Rust, based on async I/O.
-ytdlp	network	extra	Unilicense	https://github.com/ytdl-org/youtube-dl.git	https://github.com/ytdl-org/youtube-dl/releases/tag/2021.12.17	-	A downloader for online videos. Supports various platforms.
+ytdlp	network	extra	Unilicense	https://github.com/ytdl-org/youtube-dl.git	https://github.com/ytdl-org/youtube-dl/releases	-	A downloader for online videos. Supports various platforms.
 zoxide	utility	extra	MIT	https://github.com/ajeetdsouza/zoxide.git	https://github.com/ajeetdsouza/zoxide/releases	-	A smarter cd command. Supports all major shells.
 zsh	shell	extra	MIT modern	https://github.com/zsh-users/zsh.git	http://ftp.funet.fi/pub/unix/shells/zsh/	-	A classic Unix shell
 zulip-term	chat	extra	Apache 2.0	https://github.com/zulip/zulip-terminal.git	https://github.com/zulip/zulip-terminal/releases	-	A TUI-based Client for Zulip Chat. Requires Python.
