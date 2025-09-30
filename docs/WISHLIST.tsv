@@ -28,9 +28,12 @@ tmux	utility	main	ISC	https://github.com/tmux/tmux.git	https://github.com/tmux/t
 util-linux	utility	main	GPLv2	git://git.kernel.org/pub/scm/utils/util-linux/util-linux.git	https://mirrors.edge.kernel.org/pub/linux/utils/util-linux/	-	Various Utilities for Linux. Includes useful commands like cfdisk,
 ---	---	----	----	----	----	----	---
 aerc	email	extra	MIT	https://git.sr.ht/~rjarry/aerc	https://git.sr.ht/~rjarry/aerc	-	aerc is a minimalist CLI eMail client
+amanda	utility	extra	BSD	https://github.com/zmanda/amanda.git	https://github.com/zmanda/amanda/releases	-	Amanda - The Advanced Maryland Automatic Network Disk Archiver, a backup tool.
 aria2	download	extra	multiple [GPLv2 and others]	https://github.com/aria2/aria2.git	https://github.com/aria2/aria2/releases	-	A multi-protocol Downloader supporting BitTorrent and other protocols.
 ash	editor	extra	GPLv2	https://github.com/akashnag/ash.git	https://github.com/akashnag/ash/releases	-	A simple and clean CLI Text Editor.
+bacula	utility	extra	AGPLv3	http://gitlab.bacula.org/bacula-community-edition/bacula-community.git	https://gitlab.bacula.org/bacula-community-edition/bacula-community/-/releases	-	A backup utility.
 bat	utility	extra	Apache 2.0 + MIT	https://github.com/sharkdp/bat.git	https://github.com/sharkdp/bat/releases	-	A cat(1) clone with wings. Can also be used as a better version of tail.
+borg	utility	extra	BSD	https://github.com/borgbackup/borg.git	https://github.com/borgbackup/borg.git	-	borg is an efficient backup tool.
 browsh	browser	extra	LGPL 2.1	https://github.com/browsh-org/browsh/browsh.git	https://github.com/browsh-org/browsh	-	A low-bandwith Browser using SSH tunnels.
 cups	server	extra	Apache 2.0	https://github.com/apple/cups.git	https://github.com/apple/cups/releases	-	The Comon Unix Printing System (cups) is the standard for handling print jobs among UNIX-esque systems.
 duplicity	backup	extra	GPLv2+	https://gitlab.com/duplicity/duplicity.git	https://gitlab.com/duplicity/duplicity/-/releases	-	A Backup tool that uses lirsync and supports encrypting backups.
@@ -42,6 +45,7 @@ helix	editor	extra	MPL 2.0	https://github.com/helix-editor/helix.git	https://git
 ipxe	network	extra	GPLv2	https://github.com/ipxe/ipxe.git	https://github.com/ipxe/ipxe/tags	-	iPXE is a network bootloader that can be used for chainloading or flashed as firmware onto a NIC.
 irssi	chat	extra	GPLv2	https://codeberg.org/irssi/irssi.git	https://codeberg.org/irssi/irssi/releases	-	A TUI-based IRC Client.
 kakoune	editor	extra	Unilicense	https://github.com/mawww/kakoune.git	https://github.com/mawww/kakoune/releases	-	A vi-style model editor with some nifty tricks.
+ltfs	filesystem	extra	BSD	https://github.com/LinearTapeFileSystem/ltfs.git	https://github.com/LinearTapeFileSystem/ltfs.git	-	Reference Implementation for [LTFS](https://en.wikipedia.org/wiki/Linear_Tape_File_System) for Linux.
 micro	editor	extra	MIT	https://github.com/zyedidia/micro.git	https://github.com/zyedidia/micro/releases	-	A modern and intuitive terminal-based text editor, not dissimilar from nano.
 mkp224o	encryption	extra	CC0	https://github.com/cathugger/mkp224o.git	https://github.com/cathugger/mkp224o/releases	-	vanity address generator for tor onion v3 (ed25519) OnionServices.
 mle	editor	extra	Apache 2.0	https://github.com/adsr/mle.git	https://github.com/adsr/mle/releases	-	A flexible terminal-based text editor written in C
