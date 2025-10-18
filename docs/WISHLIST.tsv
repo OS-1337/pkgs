@@ -75,6 +75,7 @@ torserv	server	extra	MIT	https://github.com/torserv/torserv.git	https://github.c
 tym	backup	extra	EUPL	http://dragoman.org/tym/tym	http://dragoman.org/tym/	-	Time rsYnc Machine, a backup utility with the approach popularized by the Time Machine of Apple.
 ventoy	utility	extra	GPLv3	https://github.com/ventoy/Ventoy.git	https://github.com/ventoy/Ventoy/releases	-	Ventoy is a CLI tool to install a Plug & Play configuration of ISOLINUX. It's mostly useful to prepare (USB-)Multiboot devices.
 vramfs-fuse	filesystem	extra	MIT	https://github.com/Overv/vramfs.git	-	-	FUSE-based filesystem to utilize the VRAM on OpenCL-compatible GPUs & GPGPUs. Requires FUSE in kernel.
+w3m	browser	extra	MIT	https://git.sr.ht/~rkta/w3m.git	https://git.sr.ht/~rkta/w3m	-	w3m is a minimalist CLI webbrowser.
 weechat	chat	extra	GPLv3	https://github.com/weechat/weechat.git	https://github.com/weechat/weechat/releases	-	A modular, extensible Chat client for the terminal with IRC support built-in. Not to be confused wit WeChat!!!
 wipe	utility	extra	GPLv2	-	https://sourceforge.net/projects/wipe/files/	-	A data erasure tool that overwrites storage media.
 wwiv	server	extra	Apache 2.0	https://github.com/wwivbbs/wwiv.git	https://github.com/wwivbbs/wwiv/releases	-	A BBS Server.
