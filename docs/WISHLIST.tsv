@@ -47,6 +47,7 @@ helix	editor	extra	MPL 2.0	https://github.com/helix-editor/helix.git	https://git
 ipxe	network	extra	GPLv2	https://github.com/ipxe/ipxe.git	https://github.com/ipxe/ipxe/tags	-	iPXE is a network bootloader that can be used for chainloading or flashed as firmware onto a NIC.
 irssi	chat	extra	GPLv2	https://codeberg.org/irssi/irssi.git	https://codeberg.org/irssi/irssi/releases	-	A TUI-based IRC Client.
 kakoune	editor	extra	Unilicense	https://github.com/mawww/kakoune.git	https://github.com/mawww/kakoune/releases	-	A vi-style model editor with some nifty tricks.
+links	browser	extra	GPLv2+	-	https://links.twibright.com/download.php	-	Links is a TUI browser.
 ltfs	filesystem	extra	BSD	https://github.com/LinearTapeFileSystem/ltfs.git	https://github.com/LinearTapeFileSystem/ltfs.git	-	Reference Implementation for [LTFS](https://en.wikipedia.org/wiki/Linear_Tape_File_System) for Linux.
 micro	editor	extra	MIT	https://github.com/zyedidia/micro.git	https://github.com/zyedidia/micro/releases	-	A modern and intuitive terminal-based text editor, not dissimilar from nano.
 mkp224o	encryption	extra	CC0	https://github.com/cathugger/mkp224o.git	https://github.com/cathugger/mkp224o/releases	-	vanity address generator for tor onion v3 (ed25519) OnionServices.
