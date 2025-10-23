@@ -16,7 +16,7 @@ The name of the package in question. It should be lowercase-only with only ASCII
 ####	TAG
 This is used as a category-style marker. I.e. `editor` for editors. If a program has multiple functionalities it`s primary one should be listed. If the package is a suite of tools it should be the prime use-case.
 The following TAGs are defined:
-- `kernel` (Operating System Kernel)
+- `kernel` (Operating System Kernel & Kernel Modules / Drivers)
 - `userland` (Minimalist core utilities needed besides the kernel)
 - `shell` (Shell)
 - `development` (Development utilities necessary to build OS/1337 and/or participate in development , including libraries)
