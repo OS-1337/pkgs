@@ -74,6 +74,7 @@ tiv	media	extra	Apache 2.0	https://github.com/stefanhaustein/TerminalImageViewer
 tor	network	extra	BSD	https://gitweb.torproject.org/tor.git	https://www.torproject.org/download/tor/	-	Tor is an anonymization solution using onion routing.
 torserv	server	extra	MIT	https://github.com/torserv/torserv.git	https://github.com/torserv/torserv/releases	-	Hardened zero-config static web server that automatically launches as a Tor hidden service. Ideal for anonymous publishing in hostile environments.
 tym	backup	extra	EUPL	http://dragoman.org/tym/tym	http://dragoman.org/tym/	-	Time rsYnc Machine, a backup utility with the approach popularized by the Time Machine of Apple.
+usbkill	utility	extra	GPLv3	https://github.com/hephaest0s/usbkill.git	-	-	An automatic script that shutsdown a system upon unauthorized USB events.
 ventoy	utility	extra	GPLv3	https://github.com/ventoy/Ventoy.git	https://github.com/ventoy/Ventoy/releases	-	Ventoy is a CLI tool to install a Plug & Play configuration of ISOLINUX. It's mostly useful to prepare (USB-)Multiboot devices.
 vramfs-fuse	filesystem	extra	MIT	https://github.com/Overv/vramfs.git	-	-	FUSE-based filesystem to utilize the VRAM on OpenCL-compatible GPUs & GPGPUs. Requires FUSE in kernel.
 w3m	browser	extra	MIT	https://git.sr.ht/~rkta/w3m.git	https://git.sr.ht/~rkta/w3m	-	w3m is a minimalist CLI webbrowser.
