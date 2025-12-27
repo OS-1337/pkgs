@@ -89,6 +89,7 @@ tym	backup	extra	EUPL	http://dragoman.org/tym/tym	http://dragoman.org/tym/	-	Tim
 uefisettings	utility	extra	BSD	https://github.com/linuxboot/uefisettings.git	-	-	A tool to read and write UEFI settings from within Linux.
 usbkill	utility	extra	GPLv3	https://github.com/hephaest0s/usbkill.git	-	-	An automatic script that shutsdown a system upon unauthorized USB events.
 ventoy	utility	extra	GPLv3	https://github.com/ventoy/Ventoy.git	https://github.com/ventoy/Ventoy/releases	-	Ventoy is a CLI tool to install a Plug & Play configuration of ISOLINUX. It's mostly useful to prepare (USB-)Multiboot devices.
+voodoo	boot	extra	GPLv2	https://github.com/linuxboot/voodoo.git	-	-	Run UEFI Apps.
 vramfs-fuse	filesystem	extra	MIT	https://github.com/Overv/vramfs.git	-	-	FUSE-based filesystem to utilize the VRAM on OpenCL-compatible GPUs & GPGPUs. Requires FUSE in kernel.
 w3m	browser	extra	MIT	https://git.sr.ht/~rkta/w3m.git	https://git.sr.ht/~rkta/w3m	-	w3m is a minimalist CLI webbrowser.
 webcall	server	extra	AGPLv3	https://codeberg.org/timurmobi/webcall.git	https://codeberg.org/timurmobi/webcall/tags	-	WebCall is a WebRTC-based Voice- and Videocalling solution that allows File Transfer. Calls are P2P & E2EE.
