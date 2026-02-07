@@ -19,7 +19,6 @@ git	development	main	GPLv2	https://github.com/git/git.git	https://www.kernel.org
 lynx	browser	main	GPLv2	https://invisible-island.net/archives/lynx/tarballs/lynx-cur.tar.bz2	https://invisible-island.net/archives/lynx/tarballs/?C=M;O=D	-	lynx is a CLI-based webbrowser
 mc	files	main	GPLv3	https://github.com/MidnightCommander/mc.git	https://github.com/MidnightCommander/mc/tags	-	midnight commander is a TUI-based file manager inspired by Norton Commander.
 ne	editor	main	GPLv3	https://github.com/vigna/ne.git	https://github.com/vigna/ne/tags	-	ne, the nice editor - a simple text editor
-neofetch	utility	main	MIT	https://github.com/dylanaraps/neofetch.git	https://github.com/dylanaraps/neofetch/releases	-	A System Infromation Screen, written in bash
 neomutt	email	main	GPLv2	https://github.com/neomutt/neomutt.git	https://github.com/neomutt/neomutt/releases	-	neomutt is a fork of mutt, a classic yet powerful TUI-based eMail client.
 rsync	utility	main	GPLv3+	https://github.com/RsyncProject/rsync.git	https://github.com/RsyncProject/rsync/tags	-	A versatile file copying tool that can be used for backup & restore in a push/pull configuration.
 spm	utility	main	MIT	https://github.com/OS-1337/spm.git	https://github.com/OS-1337/spm/releases	-	The package manager for OS/1337.
