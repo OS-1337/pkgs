@@ -35,15 +35,19 @@ bat	utility	extra	Apache 2.0 + MIT	https://github.com/sharkdp/bat.git	https://gi
 borg	utility	extra	BSD	https://github.com/borgbackup/borg.git	https://github.com/borgbackup/borg.git	-	borg is an efficient backup tool.
 browsh	browser	extra	LGPL 2.1	https://github.com/browsh-org/browsh/browsh.git	https://github.com/browsh-org/browsh	-	A low-bandwith Browser using SSH tunnels.
 canoeboot	boot	extra	GPLv3	https://github.com/merge/skulls/releases	-	-	Canoeboot is a fork of Libreboot that strips it of all binary blobs and is composed solely of FLOSS-licensed parts
+cmatrix	utility	extra	GPLv3	https://github.com/abishekvashok/cmatrix.git	https://github.com/abishekvashok/cmatrix/releases	-	A matrix-like screensaver.
 contest	server	extra	MIT	https://github.com/linuxboot/contest.git	https://github.com/linuxboot/contest/releases	-	Run continuous and on-demand system testing for real and virtual hardware.
+cpufetch	utility	extra	GPLv2	https://github.com/Dr-Noob/cpufetch.git	-	-	Showing CPU details.
 cups	server	extra	Apache 2.0	https://github.com/apple/cups.git	https://github.com/apple/cups/releases	-	The Comon Unix Printing System (cups) is the standard for handling print jobs among UNIX-esque systems.
 duplicity	backup	extra	GPLv2+	https://gitlab.com/duplicity/duplicity.git	https://gitlab.com/duplicity/duplicity/-/releases	-	A Backup tool that uses lirsync and supports encrypting backups.
 etcwebdav	server	extra	Apache 2.0	https://github.com/ag88/embtomcatwebdav.git	https://github.com/ag88/embtomcatwebdav/releases	-	Embedded Tomcat WebDAV Server: A minimalist HTTP(S) & WebDAV server to serve a local directory and allow up- and downloading files easily.
 extlinux	boot	extra	GPLv2+	http://repo.or.cz/syslinux.git	https://www.kernel.org/pub/linux/utils/boot/syslinux/	-	EXTLINUX is a bootloader for Linux from ext2 / ext3 - formatted drives.
+fastfetch	utility	extra	MIT	https://github.com/fastfetch-cli/fastfetch.git	https://github.com/fastfetch-cli/fastfetch/releases	-	new fetch tools.
 fd	utility	extra	Apache 2.0 + MIT	https://github.com/sharkdp/fd.git	https://github.com/sharkdp/fd/releases	-	A simple, fast and user-friendly alternative to 'find'.
 fio	utility	extra	GPLv2	https://github.com/axboe/fio.git	https://github.com/axboe/fio/releases	-	fio is a benchmark utility for storage.
 fuse	kernel	extra	LGPLv2	https://github.com/libfuse/libfuse.git	https://github.com/libfuse/libfuse/releases	-	Reference implementation of the Filesystem in Userspace for Linux. Includes Kernel module and libfuse.
 fzf	utility	extra	MIT	https://github.com/junegunn/fzf.git	https://github.com/junegunn/fzf/releases	-	A command line fuzzy finder.
+gpufetch	utility	extra	GPLv2	https://github.com/Dr-Noob/gpufetch.git	-	-	Showing GPU details.
 greaseweasle	utility	extra	Unilicense	https://github.com/keirf/greaseweazle.git	https://github.com/keirf/greaseweazle/releases	-	A toolchain to read and write floppy disks and other magnetic media based off the raw (analog) magnetic flux data from said drive heads. It's useful for archival of floppy disk media and can handle uncommon legacy formats.
 heads	boot	extra	GPLv2	https://github.com/linuxboot/heads.git	https://github.com/linuxboot/heads/releases	-	A minimal Linux that runs as a coreboot or LinuxBoot ROM payload to provide a secure, flexible boot environment for laptops, workstations and servers.
 heirloom	utility	extra	CDDL	-	https://sourceforge.net/projects/heirloom/files/heirloom/070715/heirloom-070715.tar.bz2/download	-	The Heirloom-ng Toolchest: Includes bc, cpio, diff, ed, file, find, grep, man, nawk, oawk, pax, ps, sed, sort, spell, and tar. - See https://heirloom.sourceforge.net/tools.html for details.
@@ -54,12 +58,14 @@ isolinux	boot	extra	GPLv2+	-	https://www.kernel.org/pub/linux/utils/boot/syslinu
 kakoune	editor	extra	Unilicense	https://github.com/mawww/kakoune.git	https://github.com/mawww/kakoune/releases	-	A vi-style model editor with some nifty tricks.
 libreboot	boot	extra	GPLv3	https://github.com/merge/skulls/releases	-	-	Libreboot is a coreboot distribution composed mostly of FLOSS parts (with exception to microcode updates).
 links	browser	extra	GPLv2+	-	https://links.twibright.com/download.php	-	Links is a TUI browser.
+linux_logo	utility	extra	GPLv2	https://github.com/deater/linux_logo.git	-	-	Outputing a nice logo for the distro.
 ltfs	filesystem	extra	BSD	https://github.com/LinearTapeFileSystem/ltfs.git	https://github.com/LinearTapeFileSystem/ltfs.git	-	Reference Implementation for [LTFS](https://en.wikipedia.org/wiki/Linear_Tape_File_System) for Linux.
 micro	editor	extra	MIT	https://github.com/zyedidia/micro.git	https://github.com/zyedidia/micro/releases	-	A modern and intuitive terminal-based text editor, not dissimilar from nano.
 mkp224o	encryption	extra	CC0	https://github.com/cathugger/mkp224o.git	https://github.com/cathugger/mkp224o/releases	-	vanity address generator for tor onion v3 (ed25519) OnionServices.
 mle	editor	extra	Apache 2.0	https://github.com/adsr/mle.git	https://github.com/adsr/mle/releases	-	A flexible terminal-based text editor written in C
 monero	network	extra	BSD	https://github.com/monero-project/monero.git	https://github.com/monero-project/monero/releases/	-	Monero CLI Wallet / Node / Client.
 mosh	network	extra	mixed [GPLv3 + licensed patents]	https://github.com/mobile-shell/mosh.git	https://github.com/mobile-shell/mosh/releases	-	mobile shell is an alternative to SSH that is tolerant to unstable connections and changing IP addresses. It's able to automatically resume sessions.
+nerdfetch	utility	extra	MIT	https://github.com/ThatOneCalculator/NerdFetch.git	https://github.com/ThatOneCalculator/NerdFetch/releases	-	Alternative to neofetch.
 neovim	editor	extra	Apache 2.0	https://github.com/neovim/neovim.git	https://github.com/neovim/neovim/releases	-	neovim is a versatile and extremely powerful editor for professional users, it is based upon vim which is based upon vi.
 ngheirloom	utility	extra	CDDL	-	https://github.com/Projeto-Pindorama/heirloom-ng	-	The Heirloom-ng Toolchest, which is a more modern version of heirloom toolchest with many updates: See https://heirloom-ng.pindorama.net.br/ for details.
 nvchad	config	extra	GPLv3	https://github.com/NvChad/NvChad.git	https://github.com/NvChad/NvChad/releases	-	NvChad is a neovim-configuration, requires neovim.
@@ -71,6 +77,7 @@ pass	encryption	extra	GPLv2+	https://git.zx2c4.com/password-store/	https://www.p
 pipewire	server	extra	MIT	https://gitlab.freedesktop.org/pipewire/pipewire.git	https://gitlab.freedesktop.org/pipewire/pipewire/-/releases	-	PipeWire is the new multimedia framework to handle audio and video playback and recording on Linux. It replaces, ALSA, OSS, PulseAudio, Jack & Gstreamer.
 profanity-im	chat	extra	GPLv3	https://github.com/profanity-im/profanity.git	https://github.com/profanity-im/profanity/releases	-	A TUI based XMPP client.
 proxychains-ng	network	extra	GPLv2	https://github.com/rofl0r/proxychains-ng.git	https://github.com/rofl0r/proxychains-ng/releases	-	proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies.
+pv	utility	extra	GPLv3+	https://codeberg.org/ivarch/pv.git	https://codeberg.org/ivarch/pv/releases	-	Show a progress bar on transfers.
 pwnat	network	extra	GPLv3	https://github.com/samyk/pwnat.git	https://github.com/samyk/pwnat/releases	-	The only tool/technique to punch holes through firewalls/NATs where multiple clients & server can be behind separate NATs without any 3rd party involvement. It uses ICMP packets to circumvent firewalls and create UDP tunnels.
 pxelinux	boot	extra	GPLv2+	http://repo.or.cz/syslinux.git	https://www.kernel.org/pub/linux/utils/boot/syslinux/	-	PXELINUX is a bootloader for Linux from PXE (TFTP) boot servers.
 rclone	backup	extra	MIT	https://github.com/rclone/rclone.git	https://github.com/rclone/rclone/releases	-	A sync utility that allows syncing files rsync-style to high-latency storage like webhosters.
