@@ -47,6 +47,7 @@ extlinux	boot	extra	GPLv2+	http://repo.or.cz/syslinux.git	https://www.kernel.org
 fastfetch	utility	extra	MIT	https://github.com/fastfetch-cli/fastfetch.git	https://github.com/fastfetch-cli/fastfetch/releases	-	new fetch tools.
 fd	utility	extra	Apache 2.0 + MIT	https://github.com/sharkdp/fd.git	https://github.com/sharkdp/fd/releases	-	A simple, fast and user-friendly alternative to 'find'.
 fio	utility	extra	GPLv2	https://github.com/axboe/fio.git	https://github.com/axboe/fio/releases	-	fio is a benchmark utility for storage.
+ftpserver	server	extra	MIT	https://github.com/fclairamb/ftpserver.git	https://github.com/fclairamb/ftpserver/releases	-	A standalone FTP server written in Go. Supporting s3, Dropbox, Google Drive and SFTP as well as local storage.
 fuse	kernel	extra	LGPLv2	https://github.com/libfuse/libfuse.git	https://github.com/libfuse/libfuse/releases	-	Reference implementation of the Filesystem in Userspace for Linux. Includes Kernel module and libfuse.
 fzf	utility	extra	MIT	https://github.com/junegunn/fzf.git	https://github.com/junegunn/fzf/releases	-	A command line fuzzy finder.
 gpufetch	utility	extra	GPLv2	https://github.com/Dr-Noob/gpufetch.git	-	-	Showing GPU details.
