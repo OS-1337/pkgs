@@ -82,6 +82,7 @@ pass	encryption	extra	GPLv2+	https://git.zx2c4.com/password-store/	https://www.p
 pipewire	server	extra	MIT	https://gitlab.freedesktop.org/pipewire/pipewire.git	https://gitlab.freedesktop.org/pipewire/pipewire/-/releases	-	PipeWire is the new multimedia framework to handle audio and video playback and recording on Linux. It replaces, ALSA, OSS, PulseAudio, Jack & Gstreamer.
 profanity-im	chat	extra	GPLv3	https://github.com/profanity-im/profanity.git	https://github.com/profanity-im/profanity/releases	-	A TUI based XMPP client.
 proxychains-ng	network	extra	GPLv2	https://github.com/rofl0r/proxychains-ng.git	https://github.com/rofl0r/proxychains-ng/releases	-	proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies.
+pure-ftpd	server	extra	ISC	https://github.com/jedisct1/pure-ftpd.git	https://github.com/jedisct1/pure-ftpd/releases	-	A simple FTP server that is designed with security in mind and can run entirely within non-privilegued user accounts.
 pv	utility	extra	GPLv3+	https://codeberg.org/ivarch/pv.git	https://codeberg.org/ivarch/pv/releases	-	Show a progress bar on transfers.
 pwnat	network	extra	GPLv3	https://github.com/samyk/pwnat.git	https://github.com/samyk/pwnat/releases	-	The only tool/technique to punch holes through firewalls/NATs where multiple clients & server can be behind separate NATs without any 3rd party involvement. It uses ICMP packets to circumvent firewalls and create UDP tunnels.
 pxelinux	boot	extra	GPLv2+	http://repo.or.cz/syslinux.git	https://www.kernel.org/pub/linux/utils/boot/syslinux/	-	PXELINUX is a bootloader for Linux from PXE (TFTP) boot servers.
@@ -102,6 +103,7 @@ usbkill	utility	extra	GPLv3	https://github.com/hephaest0s/usbkill.git	-	-	An aut
 ventoy	utility	extra	GPLv3	https://github.com/ventoy/Ventoy.git	https://github.com/ventoy/Ventoy/releases	-	Ventoy is a CLI tool to install a Plug & Play configuration of ISOLINUX. It's mostly useful to prepare (USB-)Multiboot devices.
 voodoo	boot	extra	GPLv2	https://github.com/linuxboot/voodoo.git	-	-	Run UEFI Apps.
 vramfs-fuse	filesystem	extra	MIT	https://github.com/Overv/vramfs.git	-	-	FUSE-based filesystem to utilize the VRAM on OpenCL-compatible GPUs & GPGPUs. Requires FUSE in kernel.
+vsftp	server	extra	GPLv1	ftp://vsftpd.beasts.org/users/cevans/untar/vsftpd-3.0.2/	https://security.appspot.com/downloads/vsftpd-3.0.5.tar.gz	-	A primitive, yet super fast FTP server.
 w3m	browser	extra	MIT	https://git.sr.ht/~rkta/w3m.git	https://git.sr.ht/~rkta/w3m	-	w3m is a minimalist CLI webbrowser.
 webcall	server	extra	AGPLv3	https://codeberg.org/timurmobi/webcall.git	https://codeberg.org/timurmobi/webcall/tags	-	WebCall is a WebRTC-based Voice- and Videocalling solution that allows File Transfer. Calls are P2P & E2EE.
 weechat	chat	extra	GPLv3	https://github.com/weechat/weechat.git	https://github.com/weechat/weechat/releases	-	A modular, extensible Chat client for the terminal with IRC support built-in. Not to be confused wit WeChat!!!
