@@ -50,6 +50,7 @@ fio	utility	extra	GPLv2	https://github.com/axboe/fio.git	https://github.com/axbo
 ftpserver	server	extra	MIT	https://github.com/fclairamb/ftpserver.git	https://github.com/fclairamb/ftpserver/releases	-	A standalone FTP server written in Go. Supporting s3, Dropbox, Google Drive and SFTP as well as local storage.
 fuse	kernel	extra	LGPLv2	https://github.com/libfuse/libfuse.git	https://github.com/libfuse/libfuse/releases	-	Reference implementation of the Filesystem in Userspace for Linux. Includes Kernel module and libfuse.
 fzf	utility	extra	MIT	https://github.com/junegunn/fzf.git	https://github.com/junegunn/fzf/releases	-	A command line fuzzy finder.
+gping	utility	extra	MIT	https://github.com/orf/gping.git	https://github.com/orf/gping/releases	-	A ping utility with [TUI] graphs.
 gpufetch	utility	extra	GPLv2	https://github.com/Dr-Noob/gpufetch.git	-	-	Showing GPU details.
 greaseweasle	utility	extra	Unilicense	https://github.com/keirf/greaseweazle.git	https://github.com/keirf/greaseweazle/releases	-	A toolchain to read and write floppy disks and other magnetic media based off the raw (analog) magnetic flux data from said drive heads. It's useful for archival of floppy disk media and can handle uncommon legacy formats.
 heads	boot	extra	GPLv2	https://github.com/linuxboot/heads.git	https://github.com/linuxboot/heads/releases	-	A minimal Linux that runs as a coreboot or LinuxBoot ROM payload to provide a secure, flexible boot environment for laptops, workstations and servers.
@@ -93,6 +94,7 @@ silkguardian	kernel	extra	MIT	https://github.com/NateBrune/silk-guardian.git	-	-
 skulls	boot	extra	GPLv3	https://github.com/merge/skulls.git	https://github.com/merge/skulls/releases	-	prebuilt coreboot images (basically minimalist version of heads).
 syslinux	boot	extra	GPLv2+	http://repo.or.cz/syslinux.git	https://www.kernel.org/pub/linux/utils/boot/syslinux/	-	SYSLINUX is a bootloader for blooting Linux from FAT Filesystems. Initially used for OS/1337.
 systemd	userland	extra	GPLv2	https://github.com/systemd/systemd.git	https://github.com/systemd/systemd/releases	-	SystemD is a suite of servers that manage various functions. It is more than a mere `init' system.
+tauirc	chat	extra	NCSA	https://codeberg.org/NerdNextDoor/tauIRC.git	-	-	A TUI-based IRC client, ported from ToaruOS.
 tilde	editor	extra	GPLv3	https://github.com/gphalkes/tilde.git	https://github.com/gphalkes/tilde/releases	-	A TUI-based text editor with an ncurses UI.https://gitlab.freedesktop.org/pipewire/pipewire/-/releases
 tiv	media	extra	Apache 2.0	https://github.com/stefanhaustein/TerminalImageViewer.git	https://github.com/stefanhaustein/TerminalImageViewer/releases	-	Small C++ program to display images in a (modern) terminal using RGB ANSI codes and unicode block graphics characters.
 tor	network	extra	BSD	https://gitweb.torproject.org/tor.git	https://www.torproject.org/download/tor/	-	Tor is an anonymization solution using onion routing.
