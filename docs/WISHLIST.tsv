@@ -34,6 +34,7 @@ asciiville	utility	extra	MIT	https://github.com/doctorfree/Asciiville.git	https:
 ash	editor	extra	GPLv2	https://github.com/akashnag/ash.git	https://github.com/akashnag/ash/releases	-	A simple and clean CLI Text Editor.
 bacula	backup	extra	AGPLv3	http://gitlab.bacula.org/bacula-community-edition/bacula-community.git	https://gitlab.bacula.org/bacula-community-edition/bacula-community/-/releases	-	A backup utility.
 bat	utility	extra	Apache 2.0 + MIT	https://github.com/sharkdp/bat.git	https://github.com/sharkdp/bat/releases	-	A cat(1) clone with wings. Can also be used as a better version of tail.
+bind	server	extra	MPL	https://gitlab.isc.org/isc-projects/bind9.git	https://downloads.isc.org/isc/bind9/cur/	-	A mature and performant DNS Server.
 borg	backup	extra	BSD	https://github.com/borgbackup/borg.git	https://github.com/borgbackup/borg.git	-	borg is an efficient backup tool.
 browsh	browser	extra	LGPL 2.1	https://github.com/browsh-org/browsh/browsh.git	https://github.com/browsh-org/browsh	-	A low-bandwith Browser using SSH tunnels.
 canoeboot	boot	extra	GPLv3	https://github.com/merge/skulls/releases	-	-	Canoeboot is a fork of Libreboot that strips it of all binary blobs and is composed solely of FLOSS-licensed parts
@@ -61,6 +62,7 @@ irssi	chat	extra	GPLv2	https://codeberg.org/irssi/irssi.git	https://codeberg.org
 isolinux	boot	extra	GPLv2+	-	https://www.kernel.org/pub/linux/utils/boot/syslinux/	-	A bootloader to boot Linux off ISO9660 filesystems (optical media).
 jp2a	utility	extra	GPLv2	https://github.com/cslarsen/jp2a.git	-	-	converts JPEG images to ASCII art.
 kakoune	editor	extra	Unilicense	https://github.com/mawww/kakoune.git	https://github.com/mawww/kakoune/releases	-	A vi-style model editor with some nifty tricks.
+kea	server	extra	MPL 2.0	https://gitlab.isc.org/isc-projects/kea.git	https://downloads.isc.org/isc/kea/cur/	-	Kea replaces isc-dhcp as DHCP server.
 lazyman	configuration	extra	MIT	https://github.com/doctorfree/nvim-lazyman.git	https://github.com/doctorfree/nvim-lazyman/releases	-	LazyMan is a neovim configuration manager.
 libreboot	boot	extra	GPLv3	https://github.com/merge/skulls/releases	-	-	Libreboot is a coreboot distribution composed mostly of FLOSS parts (with exception to microcode updates).
 links	browser	extra	GPLv2+	-	https://links.twibright.com/download.php	-	Links is a TUI browser.
@@ -92,6 +94,7 @@ rclone	backup	extra	MIT	https://github.com/rclone/rclone.git	https://github.com/
 rdiff-backup	backup	extra	GPLv2+	https://github.com/rdiff-backup/rdiff-backup.git	https://github.com/rdiff-backup/rdiff-backup/releases	-	A Backup Software that uses *reverse deltas* to offer a consistent backup. Requires Python.
 silkguardian	kernel	extra	MIT	https://github.com/NateBrune/silk-guardian.git	-	-	Kernel Module that prevents system tampering with USB devices.
 skulls	boot	extra	GPLv3	https://github.com/merge/skulls.git	https://github.com/merge/skulls/releases	-	prebuilt coreboot images (basically minimalist version of heads).
+stork	server	extra	MPL 2.0	https://gitlab.isc.org/isc-projects/stork.git	downloads.isc.org/isc/stork/	-	Stork is a Web-based GUI to manage Kea DHCP Server settings.
 syslinux	boot	extra	GPLv2+	http://repo.or.cz/syslinux.git	https://www.kernel.org/pub/linux/utils/boot/syslinux/	-	SYSLINUX is a bootloader for blooting Linux from FAT Filesystems. Initially used for OS/1337.
 systemd	userland	extra	GPLv2	https://github.com/systemd/systemd.git	https://github.com/systemd/systemd/releases	-	SystemD is a suite of servers that manage various functions. It is more than a mere `init' system.
 tauirc	chat	extra	NCSA	https://codeberg.org/NerdNextDoor/tauIRC.git	-	-	A TUI-based IRC client, ported from ToaruOS.
