@@ -92,6 +92,7 @@ pwnat	network	extra	GPLv3	https://github.com/samyk/pwnat.git	https://github.com/
 pxelinux	boot	extra	GPLv2+	http://repo.or.cz/syslinux.git	https://www.kernel.org/pub/linux/utils/boot/syslinux/	-	PXELINUX is a bootloader for Linux from PXE (TFTP) boot servers.
 rclone	backup	extra	MIT	https://github.com/rclone/rclone.git	https://github.com/rclone/rclone/releases	-	A sync utility that allows syncing files rsync-style to high-latency storage like webhosters.
 rdiff-backup	backup	extra	GPLv2+	https://github.com/rdiff-backup/rdiff-backup.git	https://github.com/rdiff-backup/rdiff-backup/releases	-	A Backup Software that uses *reverse deltas* to offer a consistent backup. Requires Python.
+ryn27	network	extra	MIT	https://github.com/ruyynn/RYN27.git	https://github.com/ruyynn/RYN27/releases	-	Open source CLI tool for information gathering — WHOIS, DNS, IP geolocation, port scanning, technology detection, and more. Built for bug bounty hunters, CTF players, and security researchers.
 silkguardian	kernel	extra	MIT	https://github.com/NateBrune/silk-guardian.git	-	-	Kernel Module that prevents system tampering with USB devices.
 skulls	boot	extra	GPLv3	https://github.com/merge/skulls.git	https://github.com/merge/skulls/releases	-	prebuilt coreboot images (basically minimalist version of heads).
 stork	server	extra	MPL 2.0	https://gitlab.isc.org/isc-projects/stork.git	downloads.isc.org/isc/stork/	-	Stork is a Web-based GUI to manage Kea DHCP Server settings.
