@@ -78,6 +78,7 @@ mosh	network	extra	mixed [GPLv3 + licensed patents]	https://github.com/mobile-sh
 mpp	media	extra	MIT	https://github.com/doctorfree/MusicPlayerPlus.git	https://github.com/doctorfree/MusicPlayerPlus/releases	-	MusicPlayerPlus is an application to play music and music streaming.
 nerdfetch	utility	extra	MIT	https://github.com/ThatOneCalculator/NerdFetch.git	https://github.com/ThatOneCalculator/NerdFetch/releases	-	Alternative to neofetch.
 ngheirloom	utility	extra	CDDL	-	https://github.com/Projeto-Pindorama/heirloom-ng	-	The Heirloom-ng Toolchest, which is a more modern version of heirloom toolchest with many updates: See https://heirloom-ng.pindorama.net.br/ for details.
+ngnix	server	extra	BSD	https://github.com/nginx/nginx.git	https://github.com/nginx/nginx/releases	-	ngnix is a high-performance Webserver.
 ntfy	server	extra	APL2.0 + GPLv2	https://github.com/binwiederhier/ntfy.git	https://github.com/binwiederhier/ntfy/releases	-	ntfy is a notification server that allows forwarding notifications to mobile devices from the command line.
 nyx	monitor	extra	GPLv3	https://git.torproject.org/nyx.git	https://nyx.torproject.org/#download	-	nyx is a bandwith graph & configuration tool for tor. It requires Python 2.7+ and Stem 1.5.4+ as well as tor.
 ohmyzsh	config	extra	MIT	https://github.com/ohmyzsh/ohmyzsh.git	https://ohmyz.sh/#install	-	zsh configuration manager, requires zsh.
