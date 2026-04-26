@@ -44,7 +44,7 @@ cpufetch	utility	extra	GPLv2	https://github.com/Dr-Noob/cpufetch.git	-	-	Showing
 cups	server	extra	Apache 2.0	https://github.com/apple/cups.git	https://github.com/apple/cups/releases	-	The Comon Unix Printing System (cups) is the standard for handling print jobs among UNIX-esque systems.
 duplicity	backup	extra	GPLv2+	https://gitlab.com/duplicity/duplicity.git	https://gitlab.com/duplicity/duplicity/-/releases	-	A Backup tool that uses lirsync and supports encrypting backups.
 etcwebdav	server	extra	Apache 2.0	https://github.com/ag88/embtomcatwebdav.git	https://github.com/ag88/embtomcatwebdav/releases	-	Embedded Tomcat WebDAV Server: A minimalist HTTP(S) & WebDAV server to serve a local directory and allow up- and downloading files easily.
-evi	editor	extra	VIM	https://codeberg.org/NerdNextDoor/evi.git	-	-	A fork of vim before it got enshittified with AI-slop - Code.
+evi	editor	extra	VIM	https://codeberg.org/NerdNextDoor/evi.git	https://codeberg.org/NerdNextDoor/evi/releases	-	A fork of vim before it got enshittified with AI-slop - Code.
 extlinux	boot	extra	GPLv2+	http://repo.or.cz/syslinux.git	https://www.kernel.org/pub/linux/utils/boot/syslinux/	-	EXTLINUX is a bootloader for Linux from ext2 / ext3 - formatted drives.
 fastfetch	utility	extra	MIT	https://github.com/fastfetch-cli/fastfetch.git	https://github.com/fastfetch-cli/fastfetch/releases	-	new fetch tools.
 fd	utility	extra	Apache 2.0 + MIT	https://github.com/sharkdp/fd.git	https://github.com/sharkdp/fd/releases	-	A simple, fast and user-friendly alternative to 'find'.
