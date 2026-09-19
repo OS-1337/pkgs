@@ -20,6 +20,7 @@ lynx	browser	main	GPLv2	https://invisible-island.net/archives/lynx/tarballs/lynx
 mc	files	main	GPLv3	https://github.com/MidnightCommander/mc.git	https://github.com/MidnightCommander/mc/tags	-	midnight commander is a TUI-based file manager inspired by Norton Commander.
 ne	editor	main	GPLv3	https://github.com/vigna/ne.git	https://github.com/vigna/ne/tags	-	ne, the nice editor - a simple text editor
 neomutt	email	main	GPLv2	https://github.com/neomutt/neomutt.git	https://github.com/neomutt/neomutt/releases	-	neomutt is a fork of mutt, a classic yet powerful TUI-based eMail client.
+nmap	network	mai	NPSL+GPLv2	https://github.com/nmap/nmap.git	https://nmap.org/dist/	-	nmap is the go-to network scanning tool to find devices, ports and IPs.
 rsync	files	main	GPLv3+	https://github.com/RsyncProject/rsync.git	https://github.com/RsyncProject/rsync/tags	-	A versatile file copying tool that can be used for backup & restore in a push/pull configuration.
 spm	utility	main	MIT	https://github.com/OS-1337/spm.git	https://github.com/OS-1337/spm/releases	-	The package manager for OS/1337.
 squashfs-tools	filesystem	main	GPLv2	https://github.com/plougher/squashfs-tools.git	https://github.com/plougher/squashfs-tools/releases	-	Tools to generate and extract SquashFS images, a compressed, readonly filesystem used for RAM-disks. It's more powerful but also more resource-hungry than CramFS.
