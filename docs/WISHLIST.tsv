@@ -102,7 +102,8 @@ stork	server	extra	MPL 2.0	https://gitlab.isc.org/isc-projects/stork.git	downloa
 syslinux	boot	extra	GPLv2+	http://repo.or.cz/syslinux.git	https://www.kernel.org/pub/linux/utils/boot/syslinux/	-	SYSLINUX is a bootloader for blooting Linux from FAT Filesystems. Initially used for OS/1337.
 systemd	userland	extra	GPLv2	https://github.com/systemd/systemd.git	https://github.com/systemd/systemd/releases	-	SystemD is a suite of servers that manage various functions. It is more than a mere `init' system.
 tauirc	chat	extra	NCSA	https://codeberg.org/NerdNextDoor/tauIRC.git	-	-	A TUI-based IRC client, ported from ToaruOS.
-tilde	editor	extra	GPLv3	https://github.com/gphalkes/tilde.git	https://github.com/gphalkes/tilde/releases	-	A TUI-based text editor with an ncurses UI.https://gitlab.freedesktop.org/pipewire/pipewire/-/releases
+tcpdump	network	extra	BSD	-	https://www.tcpdump.org/release/	-	A popular packet capture tool used for network diagnostics.
+tilde	editor	extra	GPLv3	https://github.com/gphalkes/tilde.git	https://github.com/gphalkes/tilde/releases	-	A TUI-based text editor with an ncurses UI.
 tiv	media	extra	Apache 2.0	https://github.com/stefanhaustein/TerminalImageViewer.git	https://github.com/stefanhaustein/TerminalImageViewer/releases	-	Small C++ program to display images in a (modern) terminal using RGB ANSI codes and unicode block graphics characters.
 tor	network	extra	BSD	https://gitweb.torproject.org/tor.git	https://www.torproject.org/download/tor/	-	Tor is an anonymization solution using onion routing.
 torserv	server	extra	MIT	https://github.com/torserv/torserv.git	https://github.com/torserv/torserv/releases	-	Hardened zero-config static web server that automatically launches as a Tor hidden service. Ideal for anonymous publishing in hostile environments.
