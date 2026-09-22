@@ -90,7 +90,7 @@ pipewire	server	extra	MIT	https://gitlab.freedesktop.org/pipewire/pipewire.git	h
 profanity-im	chat	extra	GPLv3	https://github.com/profanity-im/profanity.git	https://github.com/profanity-im/profanity/releases	-	A TUI based XMPP client.
 proxychains-ng	network	extra	GPLv2	https://github.com/rofl0r/proxychains-ng.git	https://github.com/rofl0r/proxychains-ng/releases	-	proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies.
 pure-ftpd	server	extra	ISC	https://github.com/jedisct1/pure-ftpd.git	https://github.com/jedisct1/pure-ftpd/releases	-	A simple FTP server that is designed with security in mind and can run entirely within non-privilegued user accounts.
-pv	utility	extra	GPLv3+	https://codeberg.org/ivarch/pv.git	https://codeberg.org/ivarch/pv/releases	-	Show a progress bar on transfers.
+pv	utility	extra	GPLv3+	https://codeberg.org/ivarch/pv.git	https://codeberg.org/ivarch/pv/releases	-	Pipe Viewer shows a progress bar on transfers and other actions.
 pwnat	network	extra	GPLv3	https://github.com/samyk/pwnat.git	https://github.com/samyk/pwnat/releases	-	The only tool/technique to punch holes through firewalls/NATs where multiple clients & server can be behind separate NATs without any 3rd party involvement. It uses ICMP packets to circumvent firewalls and create UDP tunnels.
 pxelinux	boot	extra	GPLv2+	http://repo.or.cz/syslinux.git	https://www.kernel.org/pub/linux/utils/boot/syslinux/	-	PXELINUX is a bootloader for Linux from PXE (TFTP) boot servers.
 rclone	backup	extra	MIT	https://github.com/rclone/rclone.git	https://github.com/rclone/rclone/releases	-	A sync utility that allows syncing files rsync-style to high-latency storage like webhosters.
